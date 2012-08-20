@@ -1,0 +1,1015 @@
+{
+    "HUMMER": [
+        "HUMM TRUCK",
+        "HUMMER"
+    ],
+    "HAULMARK": [
+        "HAULMARK"
+    ],
+    "UTILMASTER": [
+        "UTILMASTR",
+        "UTILMASTER"
+    ],
+    "GENERATOR": [
+        "GENERATOR"
+    ],
+    "UNREADABLE": [
+        "ALUMA WEL",
+        "ALUMACAR",
+        "AM GENERAL",
+        "ANKIN",
+        "APE CRAFT",
+        "ARCTIC CAT",
+        "AYFLIGHT",
+        "BAJA",
+        "BARON",
+        "BLACK THU",
+        "BOAT",
+        "CXXXXX",
+        "DIAMONDBA",
+        "EBBTIDE",
+        "EIGHTLIN",
+        "GEO",
+        "GKRT",
+        "INI",
+        "KING OF TH",
+        "KOUNTRY S",
+        "LK150GY2",
+        "LOAD TRL",
+        "LOOK",
+        "MAGT",
+        "MERC TRUCK",
+        "MOUNTAINV",
+        "NEWMAR",
+        "NST",
+        "OTHER",
+        "R AND R",
+        "SPCON",
+        "SUNSETCRK",
+        "TEXAS BRA",
+        "TOATOA",
+        "TRACKERMA",
+        "TRLMANOR",
+        "UNKNOWN",
+        "USEDTIRES",
+        "X",
+        "X GOLF CRT",
+        "XALUMACAR",
+        "XXXX",
+        "ZENN",
+        "ZZN",
+        "(blank)",
+        "UNREADABLE"
+    ],
+    "CHALLENGER": [
+        "CHALLENGER"
+    ],
+    "TAOTAO": [
+        "TAOTAO"
+    ],
+    "CAN-AM": [
+        "CANAM",
+        "CAN-AM"
+    ],
+    "STEAL": [
+        "STEAL"
+    ],
+    "CHAPARRAL": [
+        "CHAPARRAL"
+    ],
+    "FABRIQUE": [
+        "FABRIQUE"
+    ],
+    "DODGE": [
+        "DODG TRUCK",
+        "DODGE",
+        "DODGE TK"
+    ],
+    "BUELL": [
+        "BUELL"
+    ],
+    "MOND": [
+        "MOND"
+    ],
+    "STARFLYTE": [
+        "STARFLYTE"
+    ],
+    "G3": [
+        "G3"
+    ],
+    "RENEGADE": [
+        "RENEGADE"
+    ],
+    "JAYCO": [
+        "JAYCO"
+    ],
+    "CLUB WAR": [
+        "CLUBCAR",
+        "CLUB WAR"
+    ],
+    "HONDA": [
+        "HONDA",
+        "HONDA TK",
+        "XHONDA"
+    ],
+    "ROCKWOOD": [
+        "ROCKWOOD"
+    ],
+    "CLEARWATER": [
+        "CLEARWATER"
+    ],
+    "HUSQVARNA": [
+        "XHUSQVARNA",
+        "HUSQVARNA"
+    ],
+    "CROSSROADS": [
+        "CROSSROAD",
+        "CROSSROADS"
+    ],
+    "ION": [
+        "ION"
+    ],
+    "YALE": [
+        "XXYALE",
+        "YALE"
+    ],
+    "CRESTLINER": [
+        "CRESTLINER"
+    ],
+    "KAWASAKI": [
+        "AWASAKI",
+        "KAWASAKI",
+        "KAWASKAI"
+    ],
+    "ODYSSEY": [
+        "ODYSSEY"
+    ],
+    "HACKNEY": [
+        "HACKNEY"
+    ],
+    "ADVENTURE": [
+        "ADVENTURE"
+    ],
+    "NASKART": [
+        "NASKART"
+    ],
+    "GROVE": [
+        "GROVE"
+    ],
+    "EAGLE": [
+        "EAGLE"
+    ],
+    "HEARTLAND": [
+        "HEARTLAND"
+    ],
+    "PORSCHE": [
+        "PORSCHE",
+        "PORSCHE TK"
+    ],
+    "SURVEYOR": [
+        "SURVEYOR"
+    ],
+    "FOUR WINDS": [
+        "FOUR WINDS"
+    ],
+    "BISON": [
+        "BISON"
+    ],
+    "TIGERLINE": [
+        "TIGE",
+        "TIGERLINE"
+    ],
+    "BUMBLE BEE": [
+        "BUMBLE BE",
+        "BUMBLE BEE"
+    ],
+    "INTERNATIONAL": [
+        "INTER",
+        "INTER TK",
+        "INTERNAT",
+        "INTERNATI",
+        "INTERNATIO",
+        "INTERNATL",
+        "INTRNATAL",
+        "INTRNATNL",
+        "NTERNATI",
+        "NTERNATL",
+        "XINTERNATI",
+        "INTERNATIONAL"
+    ],
+    "HAWK": [
+        "HAWK"
+    ],
+    "BLUEBIRD": [
+        "BBLUEBIRD",
+        "XBLUEBIRD",
+        "BLUEBIRD"
+    ],
+    "HARLEY DAVIDSON": [
+        "ARLEYDAV",
+        "HARLEXDAV",
+        "HARLEY",
+        "HARLEY DAV",
+        "HARLEYDAV",
+        "HARLEY-DAV",
+        "HRLEY DAV",
+        "HARLEY DAVIDSON"
+    ],
+    "STEHL": [
+        "STEHL"
+    ],
+    "JAGUAR": [
+        "JAGUAR"
+    ],
+    "EQUINE": [
+        "EQUINE"
+    ],
+    "JINCHENG": [
+        "JINCHENG"
+    ],
+    "PINES": [
+        "PINES"
+    ],
+    "CUTAWAY": [
+        "CUTAWAY"
+    ],
+    "NISSAN": [
+        "NISS TRUCK",
+        "NISSAN",
+        "NISSAN TK"
+    ],
+    "AIRSTREAM": [
+        "AIRSTREAM"
+    ],
+    "PACE": [
+        "PACE"
+    ],
+    "MARADA": [
+        "MARADA"
+    ],
+    "PALOMINO": [
+        "PALOMINO"
+    ],
+    "OLDSMOBILE": [
+        "OLDS TRUCK",
+        "OLDSMOBILE"
+    ],
+    "SEA PRO": [
+        "SEA PRO"
+    ],
+    "GULFSTREAM": [
+        "GULF STRM",
+        "GULFSTREA",
+        "GULFSTREAM",
+        "GULFSTREM",
+        "ULFSTREA"
+    ],
+    "KIA": [
+        "KIA"
+    ],
+    "JONWAY": [
+        "JONWAY"
+    ],
+    "CARGOPRO": [
+        "CARGOPRO"
+    ],
+    "EM": [
+        "EM"
+    ],
+    "SANDPIPER": [
+        "SANDPIPER"
+    ],
+    "CHAMPION": [
+        "CHAMPION"
+    ],
+    "WILDERNESS": [
+        "WILDERNES",
+        "WILDERNESS"
+    ],
+    "DMI": [
+        "DMI"
+    ],
+    "EVERGLADE": [
+        "EVERGLADE"
+    ],
+    "AVANTI": [
+        "AVANTI"
+    ],
+    "GLASTRON": [
+        "GLASTRON"
+    ],
+    "GILLIG": [
+        "GILLIG"
+    ],
+    "PIONEER": [
+        "PIONEER"
+    ],
+    "DESIGN": [
+        "DESIGN"
+    ],
+    "LAND ROVER": [
+        "AND ROVER",
+        "LAND ROVER",
+        "LANDROVER",
+        "ND ROVER",
+        "ROVER"
+    ],
+    "SUNLINE": [
+        "SUNLINE"
+    ],
+    "HDK": [
+        "HDK G/CAR",
+        "HDK"
+    ],
+    "BRYANT": [
+        "BRYANT"
+    ],
+    "FIAT": [
+        "FIAT"
+    ],
+    "BMC": [
+        "BMC"
+    ],
+    "EVANS": [
+        "EVANS"
+    ],
+    "EZ LOADER": [
+        "EZ LOADER"
+    ],
+    "JEEP": [
+        "JEEP",
+        "JEEP TRUCK"
+    ],
+    "AMC": [
+        "AMC"
+    ],
+    "SILVERTON": [
+        "SILVERTON"
+    ],
+    "VIP": [
+        "VIP"
+    ],
+    "LEIPAI": [
+        "LEIPAI"
+    ],
+    "EL DORADO": [
+        "ELDORADO",
+        "EL DORADO"
+    ],
+    "HOLIDAY RAMBLER": [
+        "HOLDAY",
+        "HOLIDAYRA",
+        "HOLIDAYRAM",
+        "HOLIDAY RAMBLER"
+    ],
+    "PLYMOUTH": [
+        "PLYM TRUCK",
+        "PLYMOUTH"
+    ],
+    "SCOUT": [
+        "SCOUT"
+    ],
+    "KEYSTONE": [
+        "KEYSTONE",
+        "YSTONE"
+    ],
+    "GREAT DANE": [
+        "GREAT DANE",
+        "GREATDANE"
+    ],
+    "CADILLAC": [
+        "CAD TRUCK",
+        "CADI TRUCK",
+        "CADILLAC",
+        "CADILLC TK"
+    ],
+    "SKEETER": [
+        "SKEETER"
+    ],
+    "SUZUKI": [
+        "SUZUKI",
+        "SUZUKI TK"
+    ],
+    "GEM": [
+        "GEM"
+    ],
+    "ALFA ROMEO": [
+        "ALFA",
+        "ALFA ROMEO"
+    ],
+    "LAMBORGHINI": [
+        "LAMBORGHI",
+        "LAMBORGHIN",
+        "LAMBORGIN",
+        "LAMBORGHINI"
+    ],
+    "MIAMI": [
+        "MIAMI"
+    ],
+    "PILGRIM": [
+        "PILGRIM"
+    ],
+    "RENAULT": [
+        "RENAULT"
+    ],
+    "KEY LARGO": [
+        "KEYLARGO",
+        "KEY LARGO"
+    ],
+    "CHEVROLET": [
+        "CHEV TK",
+        "CHEV TRUCK",
+        "CHEVFROLET",
+        "CHEVORLET",
+        "CHEVROLET",
+        "CHEVY",
+        "XCHEVY"
+    ],
+    "FREUHAUF": [
+        "FRUEHAUF",
+        "FREUHAUF"
+    ],
+    "WILSON": [
+        "WILSON"
+    ],
+    "ADIRONDAC": [
+        "ADIRONDAC"
+    ],
+    "VOLKSWAGEN": [
+        "VOLKS",
+        "VOLKS TK",
+        "VOLKSWAGAN",
+        "VOLKSWAGEN",
+        "VOLKSWAGON",
+        "VW"
+    ],
+    "LARSON": [
+        "LARSON"
+    ],
+    "KENWORTH": [
+        "KENWORTH"
+    ],
+    "SHADOMATIC": [
+        "XSHADOMATI",
+        "SHADOMATIC"
+    ],
+    "SAFARI": [
+        "SAFARI"
+    ],
+    "MIDAS": [
+        "XMIDAS",
+        "MIDAS"
+    ],
+    "REGAL": [
+        "REGAL"
+    ],
+    "EZ-GO": [
+        "EXGO",
+        "EZGO",
+        "EZ-GO",
+        "XEZGO"
+    ],
+    "FLEETWOOD": [
+        "FLEETWOOD"
+    ],
+    "TRAILER": [
+        "TRAILER"
+    ],
+    "SCION": [
+        "CION",
+        "SCION"
+    ],
+    "MASERATI": [
+        "MASERATI"
+    ],
+    "MG": [
+        "MG"
+    ],
+    "WORKHORSE": [
+        "WORKHORSE"
+    ],
+    "SMOKER CRAFT": [
+        "SMOKERCRAF",
+        "SMOKER CRAFT"
+    ],
+    "DATSUN": [
+        "DATSUN"
+    ],
+    "RIFUN": [
+        "RIFUN"
+    ],
+    "ASTON MARTIN": [
+        "ASTON MART",
+        "ASTON MARTIN"
+    ],
+    "NORTHWOOD": [
+        "NORTHWOOD"
+    ],
+    "KAUFMAN": [
+        "XKAUFMAN",
+        "KAUFMAN"
+    ],
+    "LOTUS": [
+        "LOTUS"
+    ],
+    "OUTBACK": [
+        "OUTBACK"
+    ],
+    "CHRYSLER": [
+        "CHRY TRUCK",
+        "CHRYS TRK",
+        "CHRYSLER"
+    ],
+    "DOONAN": [
+        "DOONAN"
+    ],
+    "WABASH": [
+        "WABASH"
+    ],
+    "STINGRAY": [
+        "STINGRAY"
+    ],
+    "NASH": [
+        "XNASH",
+        "NASH"
+    ],
+    "UTILITY": [
+        "UTILITY"
+    ],
+    "SAAB": [
+        "SAAB"
+    ],
+    "TRITON": [
+        "TRITON",
+        "TRITON BOA"
+    ],
+    "TIFFIN": [
+        "TIFFIN"
+    ],
+    "RAM": [
+        "RAM"
+    ],
+    "MONTEREY": [
+        "MONTEREY"
+    ],
+    "C&C": [
+        "C&amp;C",
+        "C&C"
+    ],
+    "VOLVO": [
+        "VOLVO",
+        "VOLVO TK"
+    ],
+    "SKYLINE": [
+        "SKYLINE"
+    ],
+    "TRACKER": [
+        "TRACKER"
+    ],
+    "KARAVAN": [
+        "KARAVAN"
+    ],
+    "ALL AMERICAN": [
+        "ALL AMER",
+        "ALLAMEREI",
+        "AMERICAN",
+        "AMERICAN I",
+        "ALL AMERICAN"
+    ],
+    "TRANSCRAFT": [
+        "TRANSCRAFT"
+    ],
+    "MIRAGE": [
+        "MIRAGE ENT",
+        "MIRAGE"
+    ],
+    "SATURN": [
+        "SATURN",
+        "SATURN TK"
+    ],
+    "SURETRAC": [
+        "SURETRAC"
+    ],
+    "AUDI": [
+        "AUDI"
+    ],
+    "EXTREME": [
+        "EXTREME"
+    ],
+    "SEA FOX": [
+        "SEA FOX"
+    ],
+    "SUNNYBROOK": [
+        "SUNNYBROOK"
+    ],
+    "WINNEBAGO": [
+        "WINNEBAGO"
+    ],
+    "KAIT": [
+        "KAIT"
+    ],
+    "HYUNDAI": [
+        "HYUNDAI"
+    ],
+    "COACHMEN": [
+        "COACHMAN",
+        "COACHMEN"
+    ],
+    "ALLEGRO": [
+        "ALLEGRO"
+    ],
+    "MAZDA": [
+        "MAZDA",
+        "MAZDA TK"
+    ],
+    "SMART CAR": [
+        "SMART",
+        "SMART CAR"
+    ],
+    "CLUB CAR": [
+        "CLUB CAR",
+        "XCLUB CAR"
+    ],
+    "TERRY": [
+        "TERRY"
+    ],
+    "ORANGE": [
+        "ORANGE BL",
+        "ORANGE"
+    ],
+    "WELLCRAFT": [
+        "WELLCRAFT"
+    ],
+    "SEA RAY": [
+        "SEA RAY",
+        "SEARAY"
+    ],
+    "FLAIR": [
+        "FLAIR"
+    ],
+    "BASSTRACKER": [
+        "BASSTRACKE",
+        "BASSTRACKER"
+    ],
+    "GLADIATOR": [
+        "GLADIATOR"
+    ],
+    "WILDCAT": [
+        "WILDCAT"
+    ],
+    "MERCURY": [
+        "MERCURY",
+        "MERCURY TK"
+    ],
+    "MAKO": [
+        "MAKO"
+    ],
+    "LINCOLN": [
+        "LINC TRUCK",
+        "LINCOIN",
+        "LINCOLN",
+        "LINCOLN TK"
+    ],
+    "WAR EAGLE": [
+        "WAR EAGLE"
+    ],
+    "GMC": [
+        "GMC",
+        "GMC TK",
+        "GMC TRUCK"
+    ],
+    "REXHALL": [
+        "REXHALL"
+    ],
+    "PETERBILT": [
+        "PETERBILT"
+    ],
+    "CROWNLINE": [
+        "CROWN",
+        "CROWNLINE"
+    ],
+    "FOREST RIVER": [
+        "FOREST RI",
+        "FOREST RIV",
+        "FOREST RV",
+        "FORESTRIV",
+        "FORESTRIVE",
+        "FORESTRVR",
+        "FOREST RIVER"
+    ],
+    "TAHOE": [
+        "TAHOE"
+    ],
+    "MITSUBISHI": [
+        "MITS TRUCK",
+        "MITSU TK",
+        "MITSUBISHI"
+    ],
+    "PROLINE": [
+        "PROLINE"
+    ],
+    "TRIUMPH": [
+        "TRIUMPH"
+    ],
+    "HY-LINE": [
+        "HY-LINE"
+    ],
+    "HARDTOP": [
+        "HARDTOP"
+    ],
+    "SEA DOO": [
+        "SEA DOO",
+        "SEADOO",
+        "SEA-DOO",
+        "XSEADOO"
+    ],
+    "PONTIAC": [
+        "PONT TRUCK",
+        "PONTIAC",
+        "PONTIAC TK"
+    ],
+    "CHEROKEE": [
+        "CHEROKEE"
+    ],
+    "HINO": [
+        "HINO"
+    ],
+    "FREIGHTLINER": [
+        "FREIGHTLI",
+        "FREIGHTLIN",
+        "FREIGHTLNR",
+        "FRIGHTLIN",
+        "REIGHTLI",
+        "XFREIGHTLI",
+        "FREIGHTLINER"
+    ],
+    "SEA HUNT": [
+        "SEA HUNT"
+    ],
+    "MART": [
+        "MART"
+    ],
+    "SUNSEEKER": [
+        "SUNSEEKER"
+    ],
+    "WESTERN": [
+        "WESTERN"
+    ],
+    "TENNANT": [
+        "TENNANT"
+    ],
+    "GEORGIE BOY": [
+        "GEORGIEB",
+        "GEORGIEBO",
+        "GEORGIEBOY",
+        "GEORGIE BOY"
+    ],
+    "MERCEDES": [
+        "MERCEDES",
+        "MERCEDESB",
+        "MERCEDES-B",
+        "XMERCEDES"
+    ],
+    "FERRARI": [
+        "FERRARI"
+    ],
+    "LEXUS": [
+        "LEXU TRUCK",
+        "LEXUS",
+        "LEXUS TK"
+    ],
+    "WILDWOOD": [
+        "WILDWOOD"
+    ],
+    "AUSTIN": [
+        "AUSTIN"
+    ],
+    "SPYDER": [
+        "SPYDER"
+    ],
+    "COMMANDO": [
+        "CAMMANDO",
+        "COMMANDO"
+    ],
+    "VICTORY": [
+        "VICTORY"
+    ],
+    "VANTAGE": [
+        "VANTAGE"
+    ],
+    "PROWLER": [
+        "PROWLER"
+    ],
+    "ACURA": [
+        "ACURA"
+    ],
+    "DORSEY": [
+        "DORSEY"
+    ],
+    "MINI": [
+        "MINI",
+        "MINI."
+    ],
+    "WALL": [
+        "WALL"
+    ],
+    "BAYLINER": [
+        "BAYLINER"
+    ],
+    "SUBARU": [
+        "SUBARU",
+        "SUBARU TK"
+    ],
+    "BIG TEX": [
+        "BIG TEX"
+    ],
+    "DUTCHMAN": [
+        "DUTCHMAN"
+    ],
+    "DAMON": [
+        "DAMON"
+    ],
+    "MAXUM": [
+        "MAXUM"
+    ],
+    "SEA ARK": [
+        "SEA ARK"
+    ],
+    "DAEWOO": [
+        "DAEWOO"
+    ],
+    "CROSLEY": [
+        "XCROSLEY",
+        "CROSLEY"
+    ],
+    "SEASWIRL": [
+        "SEASWIRL"
+    ],
+    "STUDEBAKER": [
+        "XSTUDEBAKE",
+        "STUDEBAKER"
+    ],
+    "NITRO": [
+        "NITRO"
+    ],
+    "BENTLEY": [
+        "BENTLEY"
+    ],
+    "ISUZU": [
+        "ISUZU",
+        "ISUZU TK"
+    ],
+    "TRAVELSUP": [
+        "TRAVELSUP"
+    ],
+    "ESSEX": [
+        "ESSEX"
+    ],
+    "HYSTER": [
+        "HYSTER"
+    ],
+    "PLAYBUOY": [
+        "PLAYBUOY"
+    ],
+    "ITASCA": [
+        "ITASCA"
+    ],
+    "MB": [
+        "MB SPORTS",
+        "MB"
+    ],
+    "BRANSON": [
+        "BRANSON"
+    ],
+    "MONARK": [
+        "MONARK"
+    ],
+    "POLARIS": [
+        "POLAPIS",
+        "POLARDYNA",
+        "POLARIS"
+    ],
+    "CONTINENT": [
+        "CONTINENT",
+        "CONTNENT"
+    ],
+    "TETON": [
+        "TETON HOM",
+        "TETON"
+    ],
+    "THOR": [
+        "THOR"
+    ],
+    "FLAGSTAFF": [
+        "FLAGSTAFF"
+    ],
+    "PACKARD": [
+        "PACKARD"
+    ],
+    "IRONWORKS": [
+        "IRONWORKS"
+    ],
+    "CARAVELLE": [
+        "CARAVELLE"
+    ],
+    "MONACO": [
+        "MONACO"
+    ],
+    "FORD": [
+        "FORD",
+        "FORD TRUCK"
+    ],
+    "MCKEE": [
+        "MCKEE"
+    ],
+    "BMW": [
+        "B M W",
+        "BMW",
+        "BMW TRUCK"
+    ],
+    "STARCRAFT": [
+        "STARCRAFT"
+    ],
+    "INFINITI": [
+        "INFINITI",
+        "INFINITY",
+        "INFINITY."
+    ],
+    "GOOSENECK": [
+        "GOOSENECK"
+    ],
+    "MACK": [
+        "MACK"
+    ],
+    "WEST COAST": [
+        "WEST COAST"
+    ],
+    "ROLLS-ROYCE": [
+        "LLS-ROYC",
+        "ROLLS ROYC",
+        "ROLLS-ROY",
+        "ROLLSROYC",
+        "ROLLS-ROYC",
+        "ROLLS-ROYCE"
+    ],
+    "PETTIBONE": [
+        "PETTIBONE"
+    ],
+    "SUNTRACKER": [
+        "SUNTRACKER"
+    ],
+    "MASTERCRAFT": [
+        "MASTERCRA",
+        "MASTERCRFT",
+        "MASTERCRAFT"
+    ],
+    "CLARK": [
+        "CLARK"
+    ],
+    "ELITE": [
+        "ELITE"
+    ],
+    "YAMAHA": [
+        "YAMAHA"
+    ],
+    "TOYOTA": [
+        "TOYO TRUCK",
+        "TOYOTA",
+        "TOYOTA TK"
+    ],
+    "SPORTSMAN": [
+        "SPORTSMAN",
+        "SPORTSMEN"
+    ],
+    "STERLING": [
+        "STERLING"
+    ],
+    "DENALI": [
+        "DENALI"
+    ],
+    "BUICK": [
+        "BUICK",
+        "BUICK TK",
+        "BUICK TRK"
+    ],
+    "STEENBERG": [
+        "STEENBERG"
+    ],
+    "INVADER": [
+        "XINVADER",
+        "INVADER"
+    ],
+    "BOURGETS": [
+        "BOURGETS"
+    ],
+    "MICKEY": [
+        "MICKEY"
+    ],
+    "NATIONAL RV": [
+        "NATIONALRV",
+        "NATIONAL RV"
+    ],
+    "CAROLINA": [
+        "CAROLINA"
+    ]
+}
