@@ -58,7 +58,7 @@ def correct(word):
 	# Is the provided term the beginning of a manufacturer name?
 	if len(word) >= 4:
 		for key in set(LIST_OF_MANUFACTURERS.keys()):
-			if key.startswith(word):
+	n		if key.startswith(word):
 				return LIST_OF_MANUFACTURERS[key]
 
 	# Is the provided term some subset of a manufacturer name?
