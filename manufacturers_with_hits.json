@@ -13,53 +13,6 @@
     "GENERATOR": {
         "GENERATOR": 1
     },
-    "UNREADABLE": {
-        "DIAMONDBA": 1,
-        "SUNSETCRK": 2,
-        "EBBTIDE": 3,
-        "GKRT": 1,
-        "UNKNOWN": 2,
-        "UNREADABLE": 0,
-        "ALUMACAR": 6,
-        "TRLMANOR": 1,
-        "AYFLIGHT": 1,
-        "BOAT": 2,
-        "BARON": 1,
-        "XXXX": 1,
-        "CXXXXX": 1,
-        "R AND R": 1,
-        "ZZN": 1,
-        "EIGHTLIN": 2,
-        "ANKIN": 1,
-        "NST": 2,
-        "SPCON": 1,
-        "X GOLF CRT": 2,
-        "ZENN": 2,
-        "MERC TRUCK": 1,
-        "NEWMAR": 5,
-        "MAGT": 1,
-        "OTHER": 2,
-        "TOATOA": 10,
-        "BAJA": 2,
-        "X": 4,
-        "ARCTIC CAT": 2,
-        "TRACKERMA": 8,
-        "LOAD TRL": 2,
-        "MOUNTAINV": 4,
-        "LOOK": 2,
-        "AM GENERAL": 7,
-        "GEO": 34,
-        "TEXAS BRA": 2,
-        "KOUNTRY S": 1,
-        "BLACK THU": 2,
-        "LK150GY2": 1,
-        "INI": 6,
-        "USEDTIRES": 2,
-        "APE CRAFT": 1,
-        "XALUMACAR": 1,
-        "KING OF TH": 3,
-        "ALUMA WEL": 2
-    },
     "RENEGADE": {
         "RENEGADE": 1
     },
@@ -328,7 +281,8 @@
         "AND ROVER": 3,
         "LANDROVER": 134,
         "LAND ROVER": 1206,
-        "ROVER": 2
+        "ROVER": 2,
+        "LAND-ROVER": 0
     },
     "SUNLINE": {
         "SUNLINE": 4
@@ -413,6 +367,7 @@
         "WESTERN": 1
     },
     "ALFA ROMEO": {
+        "ALFA-ROMEO": 0,
         "ALFA ROMEO": 3,
         "ALFA": 3
     },
@@ -569,7 +524,8 @@
         "TIFFIN": 6
     },
     "RAM": {
-        "RAM": 360
+        "RAM": 360,
+        "RAM-TRUCK": 0
     },
     "MONTEREY": {
         "MONTEREY": 2
@@ -774,11 +730,13 @@
     "DATSUN": {
         "DATSUN": 1
     },
-    "MERCEDES": {
+    "MERCEDES-BENZ": {
         "MERCEDES": 5555,
         "XMERCEDES": 2,
         "MERCEDESB": 1,
-        "MERCEDES-B": 2
+        "MERCEDES-B": 2,
+        "MERCEDES-BENZ": 0,
+        "MERCEDES BENZ": 0
     },
     "DESIGN": {
         "DESIGN": 3
@@ -822,7 +780,8 @@
     },
     "ASTON MARTIN": {
         "ASTON MART": 13,
-        "ASTON MARTIN": 0
+        "ASTON MARTIN": 0,
+        "ASTON-MARTIN": 0
     },
     "BIG TEX": {
         "BIG TEX": 2
@@ -1010,5 +969,16 @@
     },
     "CAROLINA": {
         "CAROLINA": 1
+    },
+    "MAYBACH": {
+        "MAYBACH": 0
+    },
+    "PANOZ": {
+        "PANOZ": 0
+    }, 
+    "TESLA MOTORS": {
+        "TESLA": 0,
+        "TESLA MOTORS": 0,
+        "TESLA-MOTORS": 0
     }
 }
