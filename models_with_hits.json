@@ -1,0 +1,4493 @@
+{
+    "ACURA": {
+        "CL": {
+            "CL": 0
+        }, 
+        "CSX": {
+            "CSX": 0
+        }, 
+        "EL": {
+            "EL": 0
+        }, 
+        "INTEGRA": {
+            "INTEGRA": 84
+        }, 
+        "LEGEND": {
+            "LEGEND": 36
+        }, 
+        "MDX": {
+            "MDX": 652
+        }, 
+        "NSX": {
+            "NSX": 4
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RDX": {
+            "RDX": 117
+        }, 
+        "RL": {
+            "RL": 58
+        }, 
+        "RSX": {
+            "RSX": 100
+        }, 
+        "SLX": {
+            "SLX": 2
+        }, 
+        "TL": {
+            "TL": 612
+        }, 
+        "TSX": {
+            "TSX": 395
+        }, 
+        "VIGOR": {
+            "VIGOR": 1
+        }, 
+        "ZDX": {
+            "ZDX": 14
+        }
+    }, 
+    "ADIRONDAC": {}, 
+    "ADVENTURE": {}, 
+    "AIRSTREAM": {}, 
+    "ALFA ROMEO": {
+        "164": {
+            "164": 0
+        }, 
+        "8C": {
+            "8C": 0
+        }, 
+        "GTV": {
+            "GTV": 0
+        }, 
+        "MILANO": {
+            "MILANO": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "SPIDER": {
+            "SPIDER": 3
+        }, 
+        "VELOCE": {
+            "VELOCE": 0
+        }
+    }, 
+    "ALL AMERICAN": {}, 
+    "ALLEGRO": {}, 
+    "AMC": {
+        "ALLIANCE": {
+            "ALLIANCE": 0
+        }, 
+        "CONCORD": {
+            "CONCORD": 0
+        }, 
+        "EAGLE": {
+            "EAGLE": 0
+        }, 
+        "ENCORE": {
+            "ENCORE": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "SPIRIT": {
+            "SPIRIT": 0
+        }
+    }, 
+    "ASTON MARTIN": {
+        "(BLANK)": {
+            "(BLANK)": 0
+        }, 
+        "DB7": {
+            "DB7": 1
+        }, 
+        "DB9": {
+            "DB9": 5
+        }, 
+        "DBS": {
+            "DBS": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RAPIDE": {
+            "RAPIDE": 0
+        }, 
+        "V": {
+            "V": 0
+        }, 
+        "V12": {
+            "V12": 0
+        }, 
+        "VANQUISH": {
+            "VANQUISH": 0
+        }, 
+        "VANTAGE": {
+            "VANTAGE": 0
+        }, 
+        "VIRAGE": {
+            "VIRAGE": 0
+        }
+    }, 
+    "AUDI": {
+        "(BLANK)": {
+            "(BLANK)": 0
+        }, 
+        "100": {
+            "100": 1
+        }, 
+        "200": {
+            "200": 0
+        }, 
+        "4000": {
+            "4000": 0
+        }, 
+        "5000": {
+            "5000": 0
+        }, 
+        "80": {
+            "80": 0
+        }, 
+        "90": {
+            "90": 10
+        }, 
+        "A3": {
+            "A3": 24
+        }, 
+        "A4": {
+            "A4": 543
+        }, 
+        "A5": {
+            "A5": 26
+        }, 
+        "A6": {
+            "A6": 265
+        }, 
+        "A8": {
+            "A8": 26
+        }, 
+        "ALLROAD": {
+            "ALLROAD": 43
+        }, 
+        "CABRIOLET": {
+            "CABRIOLET": 6
+        }, 
+        "COUPE": {
+            "COUPE": 0
+        }, 
+        "CUSTOM": {
+            "CUSTOM": 0
+        }, 
+        "GT": {
+            "GT": 0
+        }, 
+        "IGNOREME": {
+            "IGNOREME": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "Q5": {
+            "Q5": 59
+        }, 
+        "Q7": {
+            "Q7": 61
+        }, 
+        "R8": {
+            "R8": 6
+        }, 
+        "RS": {
+            "RS": 0
+        }, 
+        "RS4": {
+            "RS4": 0
+        }, 
+        "S4": {
+            "S4": 44
+        }, 
+        "S5": {
+            "S5": 9
+        }, 
+        "S6": {
+            "S6": 10
+        }, 
+        "S8": {
+            "S8": 6
+        }, 
+        "TT": {
+            "TT": 92
+        }, 
+        "TTS": {
+            "TTS": 3
+        }
+    }, 
+    "AUSTIN": {}, 
+    "AVANTI": {}, 
+    "BASSTRACKER": {}, 
+    "BAYLINER": {}, 
+    "BENTLEY": {
+        "ARNAGE": {
+            "ARNAGE": 2
+        }, 
+        "AZURE": {
+            "AZURE": 0
+        }, 
+        "BENTLEY": {
+            "BENTLEY": 0
+        }, 
+        "BROOKLANDS": {
+            "BROOKLANDS": 0
+        }, 
+        "CONTINENTAL": {
+            "CONTINENTAL": 40
+        }, 
+        "MULSANNE": {
+            "MULSANNE": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "BIG TEX": {}, 
+    "BISON": {}, 
+    "BLUEBIRD": {}, 
+    "BMC": {}, 
+    "BMW": {
+        "1": {
+            "1": 0
+        }, 
+        "1-SERIES": {
+            "1-SERIES": 0
+        }, 
+        "3": {
+            "3": 0
+        }, 
+        "3-SERIES": {
+            "3-SERIES": 0
+        }, 
+        "318": {
+            "318": 17
+        }, 
+        "320": {
+            "320": 0
+        }, 
+        "323": {
+            "323": 1
+        }, 
+        "325": {
+            "325": 17
+        }, 
+        "328": {
+            "328": 19
+        }, 
+        "330": {
+            "330": 27
+        }, 
+        "5": {
+            "5": 0
+        }, 
+        "5 SERIES": {
+            "5 SERIES": 1
+        }, 
+        "524": {
+            "524": 0
+        }, 
+        "525": {
+            "525": 13
+        }, 
+        "528": {
+            "528": 0
+        }, 
+        "530": {
+            "530": 5
+        }, 
+        "533": {
+            "533": 0
+        }, 
+        "535": {
+            "535": 0
+        }, 
+        "540": {
+            "540": 9
+        }, 
+        "545": {
+            "545": 0
+        }, 
+        "550": {
+            "550": 0
+        }, 
+        "6": {
+            "6": 0
+        }, 
+        "6-SERIES": {
+            "6-SERIES": 0
+        }, 
+        "633": {
+            "633": 0
+        }, 
+        "635": {
+            "635": 0
+        }, 
+        "645": {
+            "645": 0
+        }, 
+        "650": {
+            "650": 0
+        }, 
+        "7": {
+            "7": 0
+        }, 
+        "7-SERIES": {
+            "7-SERIES": 0
+        }, 
+        "733": {
+            "733": 0
+        }, 
+        "735": {
+            "735": 0
+        }, 
+        "740": {
+            "740": 30
+        }, 
+        "745": {
+            "745": 2
+        }, 
+        "750": {
+            "750": 0
+        }, 
+        "760": {
+            "760": 0
+        }, 
+        "8-SERIES": {
+            "8-SERIES": 0
+        }, 
+        "850": {
+            "850": 0
+        }, 
+        "COUPE": {
+            "COUPE": 0
+        }, 
+        "F1200": {
+            "F1200": 0
+        }, 
+        "F650": {
+            "F650": 0
+        }, 
+        "GRAN TURISMO": {
+            "GRAN TURISMO": 0
+        }, 
+        "HP2 ENDURO": {
+            "HP2 ENDURO": 0
+        }, 
+        "K1": {
+            "K1": 0
+        }, 
+        "K100": {
+            "K100": 0
+        }, 
+        "K1100": {
+            "K1100": 0
+        }, 
+        "K1200": {
+            "K1200": 0
+        }, 
+        "K75": {
+            "K75": 0
+        }, 
+        "K75S": {
+            "K75S": 0
+        }, 
+        "L7": {
+            "L7": 0
+        }, 
+        "M3": {
+            "M3": 94
+        }, 
+        "M5": {
+            "M5": 18
+        }, 
+        "M6": {
+            "M6": 29
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "R100": {
+            "R100": 0
+        }, 
+        "R1100": {
+            "R1100": 0
+        }, 
+        "R1150": {
+            "R1150": 0
+        }, 
+        "R1200": {
+            "R1200": 0
+        }, 
+        "R65": {
+            "R65": 0
+        }, 
+        "R80": {
+            "R80": 0
+        }, 
+        "ROADSTER": {
+            "ROADSTER": 0
+        }, 
+        "X3": {
+            "X3": 1
+        }, 
+        "X5": {
+            "X5": 12
+        }, 
+        "X6": {
+            "X6": 0
+        }, 
+        "Z": {
+            "Z": 0
+        }, 
+        "Z3": {
+            "Z3": 0
+        }, 
+        "Z4": {
+            "Z4": 1
+        }, 
+        "Z8": {
+            "Z8": 0
+        }
+    }, 
+    "BOURGETS": {}, 
+    "BRANSON": {}, 
+    "BRYANT": {}, 
+    "BUELL": {
+        "BLAST": {
+            "BLAST": 0
+        }, 
+        "CYCLONE": {
+            "CYCLONE": 0
+        }, 
+        "FIREBOLT": {
+            "FIREBOLT": 0
+        }, 
+        "LIGHTING": {
+            "LIGHTING": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RS": {
+            "RS": 0
+        }, 
+        "THUNDERBOLT": {
+            "THUNDERBOLT": 0
+        }, 
+        "TOURING": {
+            "TOURING": 0
+        }, 
+        "XB125": {
+            "XB125": 0
+        }, 
+        "XB9S": {
+            "XB9S": 0
+        }
+    }, 
+    "BUICK": {
+        "ALLURE": {
+            "ALLURE": 0
+        }, 
+        "CENTURY": {
+            "CENTURY": 391
+        }, 
+        "ELECTRA": {
+            "ELECTRA": 4
+        }, 
+        "ENCLAVE": {
+            "ENCLAVE": 144
+        }, 
+        "LACROSSE": {
+            "LACROSSE": 210
+        }, 
+        "LESABRE": {
+            "LESABRE": 483
+        }, 
+        "LUCERNE": {
+            "LUCERNE": 193
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PARK": {
+            "PARK": 0
+        }, 
+        "PARK AVENUE": {
+            "PARK AVENUE": 141
+        }, 
+        "RAINIER": {
+            "RAINIER": 64
+        }, 
+        "REATTA": {
+            "REATTA": 0
+        }, 
+        "REGAL": {
+            "REGAL": 207
+        }, 
+        "RENDEZVOUS": {
+            "RENDEZVOUS": 6
+        }, 
+        "RIVIERA": {
+            "RIVIERA": 9
+        }, 
+        "ROADMASTER": {
+            "ROADMASTER": 8
+        }, 
+        "SKYHAWK": {
+            "SKYHAWK": 0
+        }, 
+        "SKYLARK": {
+            "SKYLARK": 30
+        }, 
+        "SOMERSET": {
+            "SOMERSET": 0
+        }, 
+        "TERRAZA": {
+            "TERRAZA": 39
+        }
+    }, 
+    "BUMBLE BEE": {}, 
+    "CADILLAC": {
+        "60 SPECIAL": {
+            "60 SPECIAL": 0
+        }, 
+        "ALLANTE": {
+            "ALLANTE": 5
+        }, 
+        "BROUGHAM": {
+            "BROUGHAM": 3
+        }, 
+        "CATERA": {
+            "CATERA": 42
+        }, 
+        "CIMARRON": {
+            "CIMARRON": 0
+        }, 
+        "COMMERCIAL": {
+            "COMMERCIAL": 0
+        }, 
+        "CTS": {
+            "CTS": 412
+        }, 
+        "DEVILLE": {
+            "DEVILLE": 660
+        }, 
+        "DTS": {
+            "DTS": 129
+        }, 
+        "ELDORADO": {
+            "ELDORADO": 70
+        }, 
+        "ESCALADE": {
+            "ESCALADE": 93
+        }, 
+        "FLEETWOOD": {
+            "FLEETWOOD": 18
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PROFESSIONAL": {
+            "PROFESSIONAL": 0
+        }, 
+        "SEVILLE": {
+            "SEVILLE": 172
+        }, 
+        "SRX": {
+            "SRX": 159
+        }, 
+        "STS": {
+            "STS": 126
+        }, 
+        "XLR": {
+            "XLR": 11
+        }
+    }, 
+    "CAN-AM": {}, 
+    "CARAVELLE": {}, 
+    "CARGOPRO": {}, 
+    "CAROLINA": {}, 
+    "CHALLENGER": {}, 
+    "CHAMPION": {}, 
+    "CHAPARRAL": {}, 
+    "CHEROKEE": {}, 
+    "CHEVROLET": {
+        "10": {
+            "10": 0
+        }, 
+        "1500": {
+            "1500": 13
+        }, 
+        "20": {
+            "20": 0
+        }, 
+        "2500": {
+            "2500": 0
+        }, 
+        "3500": {
+            "3500": 0
+        }, 
+        "4000": {
+            "4000": 0
+        }, 
+        "4500": {
+            "4500": 0
+        }, 
+        "5000": {
+            "5000": 0
+        }, 
+        "5500": {
+            "5500": 0
+        }, 
+        "6000": {
+            "6000": 0
+        }, 
+        "ASTRO": {
+            "ASTRO": 10
+        }, 
+        "AVALANCHE": {
+            "AVALANCHE": 17
+        }, 
+        "AVEO": {
+            "AVEO": 484
+        }, 
+        "BERETTA": {
+            "BERETTA": 2
+        }, 
+        "BLAZER": {
+            "BLAZER": 22
+        }, 
+        "C": {
+            "C": 0
+        }, 
+        "CAMARO": {
+            "CAMARO": 333
+        }, 
+        "CAPRICE": {
+            "CAPRICE": 11
+        }, 
+        "CAVALIER": {
+            "CAVALIER": 641
+        }, 
+        "CELEBRITY": {
+            "CELEBRITY": 2
+        }, 
+        "CHEVETTE": {
+            "CHEVETTE": 0
+        }, 
+        "CITATION": {
+            "CITATION": 0
+        }, 
+        "CLASSIC": {
+            "CLASSIC": 118
+        }, 
+        "COBALT": {
+            "COBALT": 878
+        }, 
+        "COLORADO": {
+            "COLORADO": 60
+        }, 
+        "COMMERCIAL": {
+            "COMMERCIAL": 0
+        }, 
+        "CORSICA": {
+            "CORSICA": 8
+        }, 
+        "CORVETTE": {
+            "CORVETTE": 456
+        }, 
+        "CRUZE": {
+            "CRUZE": 273
+        }, 
+        "EL CAMINO": {
+            "EL CAMINO": 0
+        }, 
+        "EPICA": {
+            "EPICA": 0
+        }, 
+        "EQUINOX": {
+            "EQUINOX": 4
+        }, 
+        "EXPRESS": {
+            "EXPRESS": 4
+        }, 
+        "G1500": {
+            "G1500": 21
+        }, 
+        "G2500": {
+            "G2500": 0
+        }, 
+        "G3500": {
+            "G3500": 34
+        }, 
+        "HHR": {
+            "HHR": 752
+        }, 
+        "IMPALA": {
+            "IMPALA": 3209
+        }, 
+        "KODIAK": {
+            "KODIAK": 2
+        }, 
+        "LUMINA": {
+            "LUMINA": 98
+        }, 
+        "LUV": {
+            "LUV": 0
+        }, 
+        "MALIBU": {
+            "MALIBU": 1712
+        }, 
+        "METRO": {
+            "METRO": 2
+        }, 
+        "MONTE": {
+            "MONTE": 0
+        }, 
+        "MONTE CARLO": {
+            "MONTE CARLO": 431
+        }, 
+        "NOVA": {
+            "NOVA": 7
+        }, 
+        "OPTRA": {
+            "OPTRA": 0
+        }, 
+        "P20": {
+            "P20": 0
+        }, 
+        "P30": {
+            "P30": 1
+        }, 
+        "P40": {
+            "P40": 0
+        }, 
+        "PRIZM": {
+            "PRIZM": 60
+        }, 
+        "S10": {
+            "S10": 4
+        }, 
+        "S6000": {
+            "S6000": 0
+        }, 
+        "SILVERADO": {
+            "SILVERADO": 26
+        }, 
+        "SPECTRUM LEVEL I": {
+            "SPECTRUM LEVEL I": 0
+        }, 
+        "SPORTVAN": {
+            "SPORTVAN": 2
+        }, 
+        "SPRINT": {
+            "SPRINT": 0
+        }, 
+        "SSR": {
+            "SSR": 27
+        }, 
+        "SUBURBAN": {
+            "SUBURBAN": 10
+        }, 
+        "TAHOE": {
+            "TAHOE": 54
+        }, 
+        "TRACKER": {
+            "TRACKER": 2
+        }, 
+        "TRAILBLAZER": {
+            "TRAILBLAZER": 24
+        }, 
+        "TRAVERSE": {
+            "TRAVERSE": 4
+        }, 
+        "UPLANDER": {
+            "UPLANDER": 106
+        }, 
+        "V10": {
+            "V10": 0
+        }, 
+        "V1500": {
+            "V1500": 0
+        }, 
+        "V2500": {
+            "V2500": 0
+        }, 
+        "V30": {
+            "V30": 0
+        }, 
+        "V3500": {
+            "V3500": 0
+        }, 
+        "VAN": {
+            "VAN": 0
+        }, 
+        "VENTURE": {
+            "VENTURE": 61
+        }, 
+        "VOLT": {
+            "VOLT": 1
+        }, 
+        "WT5": {
+            "WT5": 0
+        }
+    }, 
+    "CHRYSLER": {
+        "200": {
+            "200": 273
+        }, 
+        "300": {
+            "300": 1008
+        }, 
+        "300M": {
+            "300M": 117
+        }, 
+        "ASPEN": {
+            "ASPEN": 72
+        }, 
+        "CARAVAN": {
+            "CARAVAN": 0
+        }, 
+        "CIRRUS": {
+            "CIRRUS": 44
+        }, 
+        "CONCORDE": {
+            "CONCORDE": 153
+        }, 
+        "CONQUEST": {
+            "CONQUEST": 0
+        }, 
+        "CORDOBA": {
+            "CORDOBA": 0
+        }, 
+        "CROSSFIRE": {
+            "CROSSFIRE": 65
+        }, 
+        "DAYTONA": {
+            "DAYTONA": 0
+        }, 
+        "DYNASTY": {
+            "DYNASTY": 0
+        }, 
+        "E CLASS": {
+            "E CLASS": 0
+        }, 
+        "EXCUTIVE SEDAN": {
+            "EXCUTIVE SEDAN": 0
+        }, 
+        "FIFTH AVENUE": {
+            "FIFTH AVENUE": 1
+        }, 
+        "GRAND VOYAGER": {
+            "GRAND VOYAGER": 20
+        }, 
+        "IMPERIAL": {
+            "IMPERIAL": 3
+        }, 
+        "INTREPID": {
+            "INTREPID": 3
+        }, 
+        "LASER": {
+            "LASER": 0
+        }, 
+        "LEBARON": {
+            "LEBARON": 10
+        }, 
+        "LHS": {
+            "LHS": 35
+        }, 
+        "MASERATI": {
+            "MASERATI": 0
+        }, 
+        "NEON": {
+            "NEON": 0
+        }, 
+        "NEW YORKER": {
+            "NEW YORKER": 13
+        }, 
+        "NEWPORT": {
+            "NEWPORT": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PACIFICA": {
+            "PACIFICA": 699
+        }, 
+        "PROWLER": {
+            "PROWLER": 6
+        }, 
+        "PT": {
+            "PT": 0
+        }, 
+        "PT CRUISER": {
+            "PT CRUISER": 1109
+        }, 
+        "SALON": {
+            "SALON": 0
+        }, 
+        "SEBRING": {
+            "SEBRING": 1212
+        }, 
+        "TOWN": {
+            "TOWN": 19
+        }, 
+        "VOYAGER": {
+            "VOYAGER": 0
+        }
+    }, 
+    "CLARK": {}, 
+    "CLEARWATER": {}, 
+    "CLUB CAR": {}, 
+    "CLUB WAR": {}, 
+    "COACHMEN": {}, 
+    "COMMANDO": {}, 
+    "CONTINENT": {}, 
+    "CRESTLINER": {}, 
+    "CROSLEY": {}, 
+    "CROSSROADS": {}, 
+    "CROWNLINE": {}, 
+    "CUTAWAY": {}, 
+    "DAEWOO": {
+        "LANOS": {
+            "LANOS": 7
+        }, 
+        "LEGANZA": {
+            "LEGANZA": 20
+        }, 
+        "NUBIRA": {
+            "NUBIRA": 3
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "DAMON": {}, 
+    "DATSUN": {
+        "200": {
+            "200": 0
+        }, 
+        "210": {
+            "210": 0
+        }, 
+        "280": {
+            "280": 0
+        }, 
+        "310": {
+            "310": 0
+        }, 
+        "510": {
+            "510": 0
+        }, 
+        "720": {
+            "720": 0
+        }, 
+        "MAXIMA": {
+            "MAXIMA": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PULSAR": {
+            "PULSAR": 0
+        }, 
+        "SENTRA": {
+            "SENTRA": 0
+        }, 
+        "STANZA": {
+            "STANZA": 0
+        }
+    }, 
+    "DENALI": {}, 
+    "DESIGN": {}, 
+    "DMI": {}, 
+    "DODGE": {
+        "100": {
+            "100": 0
+        }, 
+        "150": {
+            "150": 0
+        }, 
+        "1500": {
+            "1500": 2
+        }, 
+        "1500 RAM VANS": {
+            "1500 RAM VANS": 0
+        }, 
+        "2000 GTX": {
+            "2000 GTX": 0
+        }, 
+        "2500": {
+            "2500": 0
+        }, 
+        "25004X2": {
+            "25004X2": 0
+        }, 
+        "3500": {
+            "3500": 4
+        }, 
+        "400": {
+            "400": 0
+        }, 
+        "4500": {
+            "4500": 0
+        }, 
+        "600": {
+            "600": 1
+        }, 
+        "ARIES": {
+            "ARIES": 0
+        }, 
+        "AVENGER": {
+            "AVENGER": 456
+        }, 
+        "CALIBER": {
+            "CALIBER": 833
+        }, 
+        "CARAVAN": {
+            "CARAVAN": 510
+        }, 
+        "CHALLENGER": {
+            "CHALLENGER": 152
+        }, 
+        "CHARGER": {
+            "CHARGER": 1190
+        }, 
+        "COLT": {
+            "COLT": 0
+        }, 
+        "CONQUEST": {
+            "CONQUEST": 0
+        }, 
+        "D-": {
+            "D-": 0
+        }, 
+        "D50": {
+            "D50": 0
+        }, 
+        "DAKOTA": {
+            "DAKOTA": 34
+        }, 
+        "DAYTONA": {
+            "DAYTONA": 0
+        }, 
+        "DIPLOMAT": {
+            "DIPLOMAT": 0
+        }, 
+        "DURANGO": {
+            "DURANGO": 990
+        }, 
+        "DYNASTY": {
+            "DYNASTY": 7
+        }, 
+        "GRAND": {
+            "GRAND": 0
+        }, 
+        "INTREPID": {
+            "INTREPID": 273
+        }, 
+        "JOURNEY": {
+            "JOURNEY": 375
+        }, 
+        "LANCER": {
+            "LANCER": 0
+        }, 
+        "MAGNUM": {
+            "MAGNUM": 353
+        }, 
+        "MINI RAM": {
+            "MINI RAM": 0
+        }, 
+        "MIRADA": {
+            "MIRADA": 0
+        }, 
+        "MONACO": {
+            "MONACO": 0
+        }, 
+        "NEON": {
+            "NEON": 525
+        }, 
+        "NITRO": {
+            "NITRO": 250
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "OMNI": {
+            "OMNI": 0
+        }, 
+        "RAIDER": {
+            "RAIDER": 0
+        }, 
+        "RAM": {
+            "RAM": 8
+        }, 
+        "RAM WAGON": {
+            "RAM WAGON": 0
+        }, 
+        "RAMCHARGER": {
+            "RAMCHARGER": 1
+        }, 
+        "RAMPAGE": {
+            "RAMPAGE": 0
+        }, 
+        "RD200": {
+            "RD200": 0
+        }, 
+        "REGIS": {
+            "REGIS": 0
+        }, 
+        "ROYAL": {
+            "ROYAL": 0
+        }, 
+        "SHADOW": {
+            "SHADOW": 0
+        }, 
+        "SPIRIT": {
+            "SPIRIT": 2
+        }, 
+        "SPRINTER": {
+            "SPRINTER": 0
+        }, 
+        "SRT": {
+            "SRT": 0
+        }, 
+        "STEALTH": {
+            "STEALTH": 4
+        }, 
+        "STRATUS": {
+            "STRATUS": 568
+        }, 
+        "VANS": {
+            "VANS": 0
+        }, 
+        "VIPER": {
+            "VIPER": 12
+        }, 
+        "W-": {
+            "W-": 0
+        }, 
+        "W100": {
+            "W100": 0
+        }, 
+        "W400": {
+            "W400": 0
+        }
+    }, 
+    "DOONAN": {}, 
+    "DORSEY": {}, 
+    "DUTCHMAN": {}, 
+    "EAGLE": {
+        "2000": {
+            "2000": 0
+        }, 
+        "EAGLE": {
+            "EAGLE": 0
+        }, 
+        "MEDALLION": {
+            "MEDALLION": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PREMIER": {
+            "PREMIER": 0
+        }, 
+        "SUMMIT": {
+            "SUMMIT": 0
+        }, 
+        "TALON": {
+            "TALON": 4
+        }, 
+        "VISION": {
+            "VISION": 3
+        }, 
+        "VISTA": {
+            "VISTA": 0
+        }
+    }, 
+    "EL DORADO": {}, 
+    "ELITE": {}, 
+    "EM": {}, 
+    "EQUINE": {}, 
+    "ESSEX": {}, 
+    "EVANS": {}, 
+    "EVERGLADE": {}, 
+    "EXTREME": {}, 
+    "EZ LOADER": {}, 
+    "EZ-GO": {}, 
+    "FABRIQUE": {}, 
+    "FERRARI": {
+        "131": {
+            "131": 0
+        }, 
+        "308": {
+            "308": 0
+        }, 
+        "328": {
+            "328": 0
+        }, 
+        "348": {
+            "348": 0
+        }, 
+        "360": {
+            "360": 0
+        }, 
+        "430": {
+            "430": 0
+        }, 
+        "456": {
+            "456": 0
+        }, 
+        "456M": {
+            "456M": 0
+        }, 
+        "458": {
+            "458": 0
+        }, 
+        "512TR": {
+            "512TR": 0
+        }, 
+        "575M": {
+            "575M": 0
+        }, 
+        "599": {
+            "599": 0
+        }, 
+        "612": {
+            "612": 0
+        }, 
+        "CALIFORNIA": {
+            "CALIFORNIA": 4
+        }, 
+        "ENZO": {
+            "ENZO": 0
+        }, 
+        "F": {
+            "F": 0
+        }, 
+        "F35": {
+            "F35": 0
+        }, 
+        "F355": {
+            "F355": 0
+        }, 
+        "F40": {
+            "F40": 0
+        }, 
+        "F430": {
+            "F430": 4
+        }, 
+        "F50": {
+            "F50": 0
+        }, 
+        "F550": {
+            "F550": 0
+        }, 
+        "MARANELLO": {
+            "MARANELLO": 0
+        }, 
+        "MONDIAL": {
+            "MONDIAL": 2
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "SCAGLIETTI": {
+            "SCAGLIETTI": 0
+        }, 
+        "SUPERAMERICA": {
+            "SUPERAMERICA": 0
+        }, 
+        "TESTAROSSA": {
+            "TESTAROSSA": 1
+        }
+    }, 
+    "FIAT": {
+        "124": {
+            "124": 0
+        }, 
+        "BERTONE": {
+            "BERTONE": 0
+        }, 
+        "BRAVA": {
+            "BRAVA": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PININFARINA": {
+            "PININFARINA": 0
+        }, 
+        "STRADA": {
+            "STRADA": 0
+        }, 
+        "X": {
+            "X": 0
+        }
+    }, 
+    "FLAGSTAFF": {}, 
+    "FLAIR": {}, 
+    "FLEETWOOD": {}, 
+    "FORD": {
+        "550": {
+            "550": 0
+        }, 
+        "AEROSTAR": {
+            "AEROSTAR": 5
+        }, 
+        "ASPIRE": {
+            "ASPIRE": 7
+        }, 
+        "BLUE DIAMOND": {
+            "BLUE DIAMOND": 0
+        }, 
+        "BRONCO": {
+            "BRONCO": 9
+        }, 
+        "CLUB WAGON": {
+            "CLUB WAGON": 135
+        }, 
+        "COMMERCIAL VANS": {
+            "COMMERCIAL VANS": 0
+        }, 
+        "CONTOUR": {
+            "CONTOUR": 105
+        }, 
+        "CONVENTIONAL": {
+            "CONVENTIONAL": 0
+        }, 
+        "COURIER": {
+            "COURIER": 0
+        }, 
+        "COWLS": {
+            "COWLS": 0
+        }, 
+        "CROWN": {
+            "CROWN": 0
+        }, 
+        "E SUPER DUTY": {
+            "E SUPER DUTY": 0
+        }, 
+        "E100": {
+            "E100": 0
+        }, 
+        "E150": {
+            "E150": 65
+        }, 
+        "E250": {
+            "E250": 8
+        }, 
+        "E350": {
+            "E350": 302
+        }, 
+        "E450": {
+            "E450": 0
+        }, 
+        "ECONOLINE": {
+            "ECONOLINE": 7
+        }, 
+        "EDGE": {
+            "EDGE": 1298
+        }, 
+        "ESCAPE": {
+            "ESCAPE": 65
+        }, 
+        "ESCORT": {
+            "ESCORT": 229
+        }, 
+        "EXCURSION": {
+            "EXCURSION": 0
+        }, 
+        "EXP": {
+            "EXP": 0
+        }, 
+        "EXPEDITION": {
+            "EXPEDITION": 91
+        }, 
+        "EXPLORER": {
+            "EXPLORER": 631
+        }, 
+        "EXPLORER SPORT TRAC": {
+            "EXPLORER SPORT TRAC": 0
+        }, 
+        "F SUPER DUTY": {
+            "F SUPER DUTY": 0
+        }, 
+        "F-150": {
+            "F-150": 5
+        }, 
+        "F100": {
+            "F100": 2
+        }, 
+        "F150": {
+            "F150": 83
+        }, 
+        "F250": {
+            "F250": 13
+        }, 
+        "F350": {
+            "F350": 5
+        }, 
+        "F450": {
+            "F450": 2
+        }, 
+        "F550": {
+            "F550": 4
+        }, 
+        "F650": {
+            "F650": 4
+        }, 
+        "F800": {
+            "F800": 4
+        }, 
+        "FAIRMONT": {
+            "FAIRMONT": 0
+        }, 
+        "FESTIVA": {
+            "FESTIVA": 1
+        }, 
+        "FIESTA": {
+            "FIESTA": 205
+        }, 
+        "FIVE": {
+            "FIVE": 0
+        }, 
+        "FIVE HUNDRED": {
+            "FIVE HUNDRED": 224
+        }, 
+        "FLEX": {
+            "FLEX": 247
+        }, 
+        "FOCUS": {
+            "FOCUS": 2370
+        }, 
+        "FORD": {
+            "FORD": 0
+        }, 
+        "FREESTAR": {
+            "FREESTAR": 48
+        }, 
+        "FREESTYLE": {
+            "FREESTYLE": 171
+        }, 
+        "FUSION": {
+            "FUSION": 2399
+        }, 
+        "GRANADA": {
+            "GRANADA": 0
+        }, 
+        "GT": {
+            "GT": 0
+        }, 
+        "LASER": {
+            "LASER": 0
+        }, 
+        "LOW TILT C600": {
+            "LOW TILT C600": 0
+        }, 
+        "LTD": {
+            "LTD": 0
+        }, 
+        "MH STRIPPED CHASSIS": {
+            "MH STRIPPED CHASSIS": 0
+        }, 
+        "MUSTANG": {
+            "MUSTANG": 1118
+        }, 
+        "NEIGHBOR": {
+            "NEIGHBOR": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PROBE": {
+            "PROBE": 12
+        }, 
+        "RANGER": {
+            "RANGER": 77
+        }, 
+        "SUPERDUTY": {
+            "SUPERDUTY": 0
+        }, 
+        "TAURUS": {
+            "TAURUS": 2135
+        }, 
+        "TEMPO": {
+            "TEMPO": 8
+        }, 
+        "THUNDERBIRD": {
+            "THUNDERBIRD": 96
+        }, 
+        "TRANSIT": {
+            "TRANSIT": 0
+        }, 
+        "WINDSTAR": {
+            "WINDSTAR": 150
+        }, 
+        "ZX2": {
+            "ZX2": 1
+        }
+    }, 
+    "FOREST RIVER": {}, 
+    "FOUR WINDS": {}, 
+    "FREIGHTLINER": {
+        "B2 BUS": {
+            "B2 BUS": 0
+        }, 
+        "FB65 SHUTTLE BUS": {
+            "FB65 SHUTTLE BUS": 0
+        }, 
+        "FBX 106": {
+            "FBX 106": 0
+        }, 
+        "FS65": {
+            "FS65": 0
+        }, 
+        "M LINE": {
+            "M LINE": 0
+        }, 
+        "M2": {
+            "M2": 4
+        }, 
+        "MED CONV FL50": {
+            "MED CONV FL50": 0
+        }, 
+        "MED CONV FL60": {
+            "MED CONV FL60": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "SPORT": {
+            "SPORT": 0
+        }, 
+        "SPRINTER": {
+            "SPRINTER": 0
+        }
+    }, 
+    "FREUHAUF": {}, 
+    "G3": {}, 
+    "GEM": {}, 
+    "GENERATOR": {}, 
+    "GEORGIE BOY": {}, 
+    "GILLIG": {}, 
+    "GLADIATOR": {}, 
+    "GLASTRON": {
+        "GT": {
+            "GT": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "GMC": {
+        "1500": {
+            "1500": 7
+        }, 
+        "2500": {
+            "2500": 0
+        }, 
+        "350": {
+            "350": 0
+        }, 
+        "4500": {
+            "4500": 0
+        }, 
+        "5000": {
+            "5000": 0
+        }, 
+        "5500": {
+            "5500": 0
+        }, 
+        "6000": {
+            "6000": 1
+        }, 
+        "6500": {
+            "6500": 1
+        }, 
+        "ACADIA": {
+            "ACADIA": 137
+        }, 
+        "CABALLERO": {
+            "CABALLERO": 0
+        }, 
+        "CANYON": {
+            "CANYON": 6
+        }, 
+        "COMMERCIAL": {
+            "COMMERCIAL": 0
+        }, 
+        "DENALI": {
+            "DENALI": 3
+        }, 
+        "ENVOY": {
+            "ENVOY": 117
+        }, 
+        "FORWARD CONTROL": {
+            "FORWARD CONTROL": 0
+        }, 
+        "G-P": {
+            "G-P": 0
+        }, 
+        "G1500": {
+            "G1500": 31
+        }, 
+        "G2500": {
+            "G2500": 31
+        }, 
+        "G3500": {
+            "G3500": 31
+        }, 
+        "GEO TRACKER": {
+            "GEO TRACKER": 0
+        }, 
+        "HI-CUBE": {
+            "HI-CUBE": 1
+        }, 
+        "JIMMY": {
+            "JIMMY": 4
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RALLY": {
+            "RALLY": 0
+        }, 
+        "S15": {
+            "S15": 0
+        }, 
+        "SAFARI": {
+            "SAFARI": 11
+        }, 
+        "SAVANA": {
+            "SAVANA": 26
+        }, 
+        "SIERRA": {
+            "SIERRA": 6
+        }, 
+        "SONOMA": {
+            "SONOMA": 0
+        }, 
+        "SUBURBAN": {
+            "SUBURBAN": 1
+        }, 
+        "SYCLONE": {
+            "SYCLONE": 0
+        }, 
+        "TERRAIN": {
+            "TERRAIN": 4
+        }, 
+        "TOPKICK": {
+            "TOPKICK": 0
+        }, 
+        "TYPHOON": {
+            "TYPHOON": 0
+        }, 
+        "VALUE VAN": {
+            "VALUE VAN": 0
+        }, 
+        "VANDURA": {
+            "VANDURA": 4
+        }, 
+        "W3500": {
+            "W3500": 2
+        }, 
+        "W4500": {
+            "W4500": 10
+        }, 
+        "WT5": {
+            "WT5": 0
+        }, 
+        "YUKON": {
+            "YUKON": 37
+        }
+    }, 
+    "GOOSENECK": {}, 
+    "GREAT DANE": {}, 
+    "GROVE": {}, 
+    "GULFSTREAM": {}, 
+    "HACKNEY": {}, 
+    "HARDTOP": {}, 
+    "HARLEY-DAVIDSON": {
+        "FLH80": {
+            "FLH80": 0
+        }, 
+        "FLHP": {
+            "FLHP": 0
+        }, 
+        "FLHR": {
+            "FLHR": 10
+        }, 
+        "FLHS": {
+            "FLHS": 0
+        }, 
+        "FLHT": {
+            "FLHT": 3
+        }, 
+        "FLHX": {
+            "FLHX": 26
+        }, 
+        "FLST": {
+            "FLST": 1
+        }, 
+        "FLT": {
+            "FLT": 0
+        }, 
+        "FX": {
+            "FX": 0
+        }, 
+        "MT-500": {
+            "MT-500": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "VRS": {
+            "VRS": 0
+        }, 
+        "XL": {
+            "XL": 0
+        }, 
+        "XR": {
+            "XR": 0
+        }
+    }, 
+    "HAULMARK": {
+        "HAULER": {
+            "HAULER": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "TRANSPORT": {
+            "TRANSPORT": 0
+        }, 
+        "V-NOSE": {
+            "V-NOSE": 0
+        }
+    }, 
+    "HAWK": {}, 
+    "HDK": {}, 
+    "HEARTLAND": {}, 
+    "HINO": {
+        "FA": {
+            "FA": 0
+        }, 
+        "FB": {
+            "FB": 0
+        }, 
+        "GC": {
+            "GC": 0
+        }, 
+        "HIN": {
+            "HIN": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "HOLIDAY RAMBLER": {}, 
+    "HONDA": {
+        "125": {
+            "125": 0
+        }, 
+        "250": {
+            "250": 0
+        }, 
+        "500": {
+            "500": 0
+        }, 
+        "550": {
+            "550": 0
+        }, 
+        "650": {
+            "650": 0
+        }, 
+        "ACCORD": {
+            "ACCORD": 2717
+        }, 
+        "ATC": {
+            "ATC": 0
+        }, 
+        "CB": {
+            "CB": 0
+        }, 
+        "CH": {
+            "CH": 0
+        }, 
+        "CIVIC": {
+            "CIVIC": 2903
+        }, 
+        "CM": {
+            "CM": 0
+        }, 
+        "CR": {
+            "CR": 0
+        }, 
+        "CR-V": {
+            "CR-V": 1005
+        }, 
+        "CT": {
+            "CT": 0
+        }, 
+        "CX": {
+            "CX": 0
+        }, 
+        "ELEMENT": {
+            "ELEMENT": 179
+        }, 
+        "EV PLUS": {
+            "EV PLUS": 0
+        }, 
+        "FIT": {
+            "FIT": 109
+        }, 
+        "FL": {
+            "FL": 0
+        }, 
+        "GL": {
+            "GL": 0
+        }, 
+        "INSIGHT": {
+            "INSIGHT": 52
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "ODYSSEY": {
+            "ODYSSEY": 1534
+        }, 
+        "PA50": {
+            "PA50": 0
+        }, 
+        "PASSPORT": {
+            "PASSPORT": 52
+        }, 
+        "PILOT": {
+            "PILOT": 571
+        }, 
+        "PRELUDE": {
+            "PRELUDE": 37
+        }, 
+        "RIDGELINE": {
+            "RIDGELINE": 111
+        }, 
+        "S2000": {
+            "S2000": 23
+        }, 
+        "ST": {
+            "ST": 0
+        }, 
+        "TRX": {
+            "TRX": 0
+        }, 
+        "VF": {
+            "VF": 0
+        }, 
+        "VT": {
+            "VT": 0
+        }
+    }, 
+    "HUMMER": {
+        "H1": {
+            "H1": 3
+        }, 
+        "H2": {
+            "H2": 239
+        }, 
+        "H3": {
+            "H3": 244
+        }, 
+        "H3T": {
+            "H3T": 7
+        }
+    }, 
+    "HUSQVARNA": {
+        "125": {
+            "125": 0
+        }, 
+        "250": {
+            "250": 0
+        }, 
+        "260": {
+            "260": 0
+        }, 
+        "350": {
+            "350": 0
+        }, 
+        "510": {
+            "510": 0
+        }, 
+        "610": {
+            "610": 0
+        }, 
+        "CAGIVA": {
+            "CAGIVA": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "HY-LINE": {}, 
+    "HYSTER": {}, 
+    "HYUNDAI": {
+        "ACCENT": {
+            "ACCENT": 865
+        }, 
+        "AZERA": {
+            "AZERA": 64
+        }, 
+        "ELANTRA": {
+            "ELANTRA": 1594
+        }, 
+        "ENTOURAGE": {
+            "ENTOURAGE": 33
+        }, 
+        "EQUUS": {
+            "EQUUS": 7
+        }, 
+        "EXCEL": {
+            "EXCEL": 0
+        }, 
+        "GENESIS": {
+            "GENESIS": 127
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PONY": {
+            "PONY": 0
+        }, 
+        "SANTA": {
+            "SANTA": 0
+        }, 
+        "SANTA FE": {
+            "SANTA FE": 59
+        }, 
+        "SCOUPE": {
+            "SCOUPE": 0
+        }, 
+        "SONATA": {
+            "SONATA": 19
+        }, 
+        "STELLAR": {
+            "STELLAR": 0
+        }, 
+        "TIBURON": {
+            "TIBURON": 213
+        }, 
+        "TUCSON": {
+            "TUCSON": 6
+        }, 
+        "VERACRUZ": {
+            "VERACRUZ": 82
+        }, 
+        "XG300": {
+            "XG300": 0
+        }, 
+        "XG350": {
+            "XG350": 4
+        }
+    }, 
+    "INFINITI": {
+        "EX35": {
+            "EX35": 92
+        }, 
+        "FX": {
+            "FX": 0
+        }, 
+        "FX35": {
+            "FX35": 220
+        }, 
+        "FX50": {
+            "FX50": 0
+        }, 
+        "G20": {
+            "G20": 62
+        }, 
+        "G25": {
+            "G25": 0
+        }, 
+        "G35": {
+            "G35": 397
+        }, 
+        "G37": {
+            "G37": 344
+        }, 
+        "I30": {
+            "I30": 150
+        }, 
+        "I35": {
+            "I35": 73
+        }, 
+        "J30": {
+            "J30": 19
+        }, 
+        "M30": {
+            "M30": 5
+        }, 
+        "M35": {
+            "M35": 102
+        }, 
+        "M37": {
+            "M37": 43
+        }, 
+        "M45": {
+            "M45": 44
+        }, 
+        "M56": {
+            "M56": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "Q45": {
+            "Q45": 69
+        }, 
+        "QX4": {
+            "QX4": 109
+        }, 
+        "QX56": {
+            "QX56": 132
+        }
+    }, 
+    "INTERNATIONAL": {
+        "1000": {
+            "1000": 2
+        }, 
+        "2000": {
+            "2000": 0
+        }, 
+        "3000": {
+            "3000": 0
+        }, 
+        "4000": {
+            "4000": 11
+        }, 
+        "500": {
+            "500": 0
+        }, 
+        "600": {
+            "600": 0
+        }, 
+        "CO-LFE": {
+            "CO-LFE": 0
+        }, 
+        "METRO": {
+            "METRO": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "INVADER": {}, 
+    "ION": {}, 
+    "IRONWORKS": {}, 
+    "ISUZU": {
+        "AMIGO": {
+            "AMIGO": 8
+        }, 
+        "ASCENDER": {
+            "ASCENDER": 34
+        }, 
+        "AXIOM": {
+            "AXIOM": 42
+        }, 
+        "FRR": {
+            "FRR": 0
+        }, 
+        "FSR": {
+            "FSR": 0
+        }, 
+        "HOMBRE": {
+            "HOMBRE": 7
+        }, 
+        "I": {
+            "I": 0
+        }, 
+        "I-290": {
+            "I-290": 4
+        }, 
+        "I-370": {
+            "I-370": 2
+        }, 
+        "I-MARK": {
+            "I-MARK": 0
+        }, 
+        "I280": {
+            "I280": 0
+        }, 
+        "I350": {
+            "I350": 0
+        }, 
+        "IMPULSE": {
+            "IMPULSE": 0
+        }, 
+        "NPR": {
+            "NPR": 32
+        }, 
+        "NQR": {
+            "NQR": 4
+        }, 
+        "NRR": {
+            "NRR": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "OASIS": {
+            "OASIS": 4
+        }, 
+        "PU": {
+            "PU": 0
+        }, 
+        "PUP": {
+            "PUP": 0
+        }, 
+        "REG CAB": {
+            "REG CAB": 0
+        }, 
+        "RODEO": {
+            "RODEO": 164
+        }, 
+        "SPACE CAB": {
+            "SPACE CAB": 0
+        }, 
+        "STYLUS": {
+            "STYLUS": 0
+        }, 
+        "TROOPER": {
+            "TROOPER": 68
+        }, 
+        "VEHICROSS": {
+            "VEHICROSS": 0
+        }
+    }, 
+    "ITASCA": {}, 
+    "JAGUAR": {
+        "NULL": {
+            "NULL": 0
+        }, 
+        "S": {
+            "S": 0
+        }, 
+        "S-TYPE": {
+            "S-TYPE": 0
+        }, 
+        "SOVERIGN": {
+            "SOVERIGN": 0
+        }, 
+        "SUPER V8": {
+            "SUPER V8": 0
+        }, 
+        "VANDEN": {
+            "VANDEN": 0
+        }, 
+        "X": {
+            "X": 0
+        }, 
+        "X-TYPE": {
+            "X-TYPE": 9
+        }, 
+        "XF": {
+            "XF": 22
+        }, 
+        "XJ": {
+            "XJ": 6
+        }, 
+        "XJ8": {
+            "XJ8": 146
+        }, 
+        "XK": {
+            "XK": 22
+        }, 
+        "XK8": {
+            "XK8": 23
+        }, 
+        "XKR": {
+            "XKR": 7
+        }
+    }, 
+    "JAYCO": {
+        "25": {
+            "25": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "JEEP": {
+        "ALLIANCE": {
+            "ALLIANCE": 0
+        }, 
+        "CHEROKEE": {
+            "CHEROKEE": 142
+        }, 
+        "CJ": {
+            "CJ": 2
+        }, 
+        "COMANCHE": {
+            "COMANCHE": 0
+        }, 
+        "COMMANDER": {
+            "COMMANDER": 317
+        }, 
+        "COMPASS": {
+            "COMPASS": 0
+        }, 
+        "CONCORD": {
+            "CONCORD": 0
+        }, 
+        "EAGLE": {
+            "EAGLE": 0
+        }, 
+        "ENCORE": {
+            "ENCORE": 0
+        }, 
+        "GRAND": {
+            "GRAND": 0
+        }, 
+        "GRAND CHEROKEE": {
+            "GRAND CHEROKEE": 245
+        }, 
+        "J10": {
+            "J10": 0
+        }, 
+        "J20": {
+            "J20": 0
+        }, 
+        "LIBERTY": {
+            "LIBERTY": 13
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PATRIOT": {
+            "PATRIOT": 2
+        }, 
+        "SCRAMBLER": {
+            "SCRAMBLER": 0
+        }, 
+        "SPIRIT": {
+            "SPIRIT": 0
+        }, 
+        "WAGONEER": {
+            "WAGONEER": 0
+        }, 
+        "WRANGLER": {
+            "WRANGLER": 141
+        }
+    }, 
+    "JINCHENG": {}, 
+    "JONWAY": {}, 
+    "KAIT": {}, 
+    "KARAVAN": {}, 
+    "KAUFMAN": {}, 
+    "KAWASAKI": {
+        "125": {
+            "125": 0
+        }, 
+        "250": {
+            "250": 0
+        }, 
+        "400": {
+            "400": 0
+        }, 
+        "500": {
+            "500": 0
+        }, 
+        "600": {
+            "600": 0
+        }, 
+        "750": {
+            "750": 0
+        }, 
+        "80": {
+            "80": 0
+        }, 
+        "800": {
+            "800": 0
+        }, 
+        "900": {
+            "900": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "KENWORTH": {}, 
+    "KEY LARGO": {}, 
+    "KEYSTONE": {}, 
+    "KIA": {
+        "2006": {
+            "2006": 0
+        }, 
+        "AMANTI": {
+            "AMANTI": 73
+        }, 
+        "BORREGO": {
+            "BORREGO": 36
+        }, 
+        "FORTE": {
+            "FORTE": 449
+        }, 
+        "NEW": {
+            "NEW": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "OPTIMA": {
+            "OPTIMA": 657
+        }, 
+        "RIO": {
+            "RIO": 384
+        }, 
+        "RONDO": {
+            "RONDO": 75
+        }, 
+        "SEDONA": {
+            "SEDONA": 913
+        }, 
+        "SEPHIA": {
+            "SEPHIA": 31
+        }, 
+        "SORENTO": {
+            "SORENTO": 674
+        }, 
+        "SOUL": {
+            "SOUL": 352
+        }, 
+        "SPECTRA": {
+            "SPECTRA": 354
+        }, 
+        "SPECTRA5": {
+            "SPECTRA5": 0
+        }, 
+        "SPORTAGE": {
+            "SPORTAGE": 385
+        }
+    }, 
+    "LAMBORGHINI": {
+        "COUNTACH": {
+            "COUNTACH": 0
+        }, 
+        "DIABLO": {
+            "DIABLO": 0
+        }, 
+        "GALLARDO": {
+            "GALLARDO": 7
+        }, 
+        "JALPA": {
+            "JALPA": 0
+        }, 
+        "LM": {
+            "LM": 0
+        }, 
+        "MURCIELAG": {
+            "MURCIELAG": 0
+        }, 
+        "MURCIELAGO": {
+            "MURCIELAGO": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "LAND ROVER": {
+        "COUNTY": {
+            "COUNTY": 0
+        }, 
+        "DEFENDER": {
+            "DEFENDER": 0
+        }, 
+        "DISCOVERY": {
+            "DISCOVERY": 192
+        }, 
+        "FREELANDER": {
+            "FREELANDER": 111
+        }, 
+        "LR2": {
+            "LR2": 26
+        }, 
+        "LR3": {
+            "LR3": 0
+        }, 
+        "LR4": {
+            "LR4": 1
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RANGE": {
+            "RANGE": 0
+        }, 
+        "RANGE ROVER": {
+            "RANGE ROVER": 569
+        }
+    }, 
+    "LARSON": {}, 
+    "LEIPAI": {}, 
+    "LEXUS": {
+        "CT": {
+            "CT": 0
+        }, 
+        "ES": {
+            "ES": 0
+        }, 
+        "GS": {
+            "GS": 0
+        }, 
+        "GS300": {
+            "GS300": 160
+        }, 
+        "GS430": {
+            "GS430": 25
+        }, 
+        "GX": {
+            "GX": 0
+        }, 
+        "GX460": {
+            "GX460": 26
+        }, 
+        "GX470": {
+            "GX470": 296
+        }, 
+        "HS": {
+            "HS": 0
+        }, 
+        "IS": {
+            "IS": 0
+        }, 
+        "LS": {
+            "LS": 0
+        }, 
+        "LX": {
+            "LX": 0
+        }, 
+        "LX470": {
+            "LX470": 87
+        }, 
+        "LX570": {
+            "LX570": 27
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RX": {
+            "RX": 0
+        }, 
+        "RX300": {
+            "RX300": 367
+        }, 
+        "RX330": {
+            "RX330": 336
+        }, 
+        "RX350": {
+            "RX350": 503
+        }, 
+        "RX400H": {
+            "RX400H": 63
+        }, 
+        "RX450H": {
+            "RX450H": 14
+        }, 
+        "SC": {
+            "SC": 0
+        }
+    }, 
+    "LINCOLN": {
+        "AVIATOR": {
+            "AVIATOR": 1
+        }, 
+        "BLACKWOOD": {
+            "BLACKWOOD": 1
+        }, 
+        "CONTINENTAL": {
+            "CONTINENTAL": 113
+        }, 
+        "LS": {
+            "LS": 16
+        }, 
+        "MARK": {
+            "MARK": 0
+        }, 
+        "MKS": {
+            "MKS": 506
+        }, 
+        "MKT": {
+            "MKT": 70
+        }, 
+        "MKX": {
+            "MKX": 450
+        }, 
+        "MKZ": {
+            "MKZ": 590
+        }, 
+        "NAVIGATOR": {
+            "NAVIGATOR": 21
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "TOWN": {
+            "TOWN": 0
+        }, 
+        "TOWN CAR": {
+            "TOWN CAR": 520
+        }, 
+        "ZEPHYR": {
+            "ZEPHYR": 29
+        }
+    }, 
+    "LOTUS": {
+        "ELAN": {
+            "ELAN": 0
+        }, 
+        "ELISE": {
+            "ELISE": 3
+        }, 
+        "ESPRIT": {
+            "ESPRIT": 0
+        }, 
+        "EVORA": {
+            "EVORA": 1
+        }, 
+        "EXIGE": {
+            "EXIGE": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "MACK": {}, 
+    "MAKO": {}, 
+    "MARADA": {}, 
+    "MART": {}, 
+    "MASERATI": {
+        "425": {
+            "425": 0
+        }, 
+        "430": {
+            "430": 0
+        }, 
+        "BITURBO": {
+            "BITURBO": 0
+        }, 
+        "CAMBIOCORSA": {
+            "CAMBIOCORSA": 0
+        }, 
+        "GRAN": {
+            "GRAN": 0
+        }, 
+        "GRANSPORT": {
+            "GRANSPORT": 2
+        }, 
+        "M128": {
+            "M128": 0
+        }, 
+        "M138": {
+            "M138": 0
+        }, 
+        "MASERATI": {
+            "MASERATI": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "QUATTROPORTE": {
+            "QUATTROPORTE": 16
+        }, 
+        "SPYDER": {
+            "SPYDER": 1
+        }
+    }, 
+    "MASTERCRAFT": {}, 
+    "MAXUM": {}, 
+    "MAYBACH": {
+        "57": {
+            "57": 0
+        }, 
+        "62": {
+            "62": 0
+        }, 
+        "MAYBACH": {
+            "MAYBACH": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "MAZDA": {
+        "3": {
+            "3": 1
+        }, 
+        "323": {
+            "323": 1
+        }, 
+        "5": {
+            "5": 0
+        }, 
+        "6": {
+            "6": 1
+        }, 
+        "626": {
+            "626": 186
+        }, 
+        "929": {
+            "929": 1
+        }, 
+        "B2000": {
+            "B2000": 1
+        }, 
+        "B2200": {
+            "B2200": 1
+        }, 
+        "B2300": {
+            "B2300": 20
+        }, 
+        "B2500": {
+            "B2500": 6
+        }, 
+        "B2600": {
+            "B2600": 0
+        }, 
+        "B3000": {
+            "B3000": 40
+        }, 
+        "B4000": {
+            "B4000": 11
+        }, 
+        "CX": {
+            "CX": 0
+        }, 
+        "CX-7": {
+            "CX-7": 201
+        }, 
+        "CX-9": {
+            "CX-9": 70
+        }, 
+        "GLC": {
+            "GLC": 0
+        }, 
+        "MAZDA2": {
+            "MAZDA2": 12
+        }, 
+        "MAZDA3": {
+            "MAZDA3": 712
+        }, 
+        "MAZDA5": {
+            "MAZDA5": 108
+        }, 
+        "MAZDA6": {
+            "MAZDA6": 497
+        }, 
+        "MAZDASPEED6": {
+            "MAZDASPEED6": 15
+        }, 
+        "MIATA": {
+            "MIATA": 1
+        }, 
+        "MILLENIA": {
+            "MILLENIA": 112
+        }, 
+        "MPV": {
+            "MPV": 217
+        }, 
+        "MX": {
+            "MX": 0
+        }, 
+        "MX-3": {
+            "MX-3": 5
+        }, 
+        "MX-5 MIATA": {
+            "MX-5 MIATA": 0
+        }, 
+        "MX-6": {
+            "MX-6": 7
+        }, 
+        "MX6": {
+            "MX6": 0
+        }, 
+        "NAVAJO": {
+            "NAVAJO": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PICKUP": {
+            "PICKUP": 0
+        }, 
+        "PROTEGE": {
+            "PROTEGE": 160
+        }, 
+        "RX": {
+            "RX": 0
+        }, 
+        "RX7": {
+            "RX7": 8
+        }, 
+        "RX8": {
+            "RX8": 155
+        }, 
+        "TRIBUTE": {
+            "TRIBUTE": 5
+        }, 
+        "VAN": {
+            "VAN": 0
+        }, 
+        "WAGON": {
+            "WAGON": 0
+        }
+    }, 
+    "MB": {}, 
+    "MCKEE": {}, 
+    "MERCEDES-BENZ": {
+        "190": {
+            "190": 0
+        }, 
+        "240": {
+            "240": 0
+        }, 
+        "280": {
+            "280": 0
+        }, 
+        "300": {
+            "300": 2
+        }, 
+        "350": {
+            "350": 0
+        }, 
+        "380": {
+            "380": 0
+        }, 
+        "400": {
+            "400": 0
+        }, 
+        "420": {
+            "420": 0
+        }, 
+        "500": {
+            "500": 0
+        }, 
+        "560": {
+            "560": 0
+        }, 
+        "B200": {
+            "B200": 0
+        }, 
+        "C": {
+            "C": 0
+        }, 
+        "C220": {
+            "C220": 0
+        }, 
+        "C230": {
+            "C230": 6
+        }, 
+        "C240": {
+            "C240": 0
+        }, 
+        "C280": {
+            "C280": 0
+        }, 
+        "C320": {
+            "C320": 3
+        }, 
+        "C350": {
+            "C350": 0
+        }, 
+        "C36": {
+            "C36": 0
+        }, 
+        "C43": {
+            "C43": 0
+        }, 
+        "C55 AMG": {
+            "C55 AMG": 4
+        }, 
+        "CL": {
+            "CL": 0
+        }, 
+        "CL500": {
+            "CL500": 0
+        }, 
+        "CL55 AMG": {
+            "CL55 AMG": 12
+        }, 
+        "CL600": {
+            "CL600": 0
+        }, 
+        "CL65": {
+            "CL65": 0
+        }, 
+        "CL65K AMG": {
+            "CL65K AMG": 0
+        }, 
+        "CLK": {
+            "CLK": 0
+        }, 
+        "CLK 350": {
+            "CLK 350": 0
+        }, 
+        "CLK320": {
+            "CLK320": 10
+        }, 
+        "CLK430": {
+            "CLK430": 3
+        }, 
+        "CLK500": {
+            "CLK500": 0
+        }, 
+        "CLK55 AMG": {
+            "CLK55 AMG": 0
+        }, 
+        "CLK63": {
+            "CLK63": 0
+        }, 
+        "CLS": {
+            "CLS": 0
+        }, 
+        "CLS 500C": {
+            "CLS 500C": 0
+        }, 
+        "CLS 55AMG": {
+            "CLS 55AMG": 0
+        }, 
+        "CLS CLASS": {
+            "CLS CLASS": 0
+        }, 
+        "E": {
+            "E": 0
+        }, 
+        "E300": {
+            "E300": 0
+        }, 
+        "E320": {
+            "E320": 30
+        }, 
+        "E350": {
+            "E350": 2
+        }, 
+        "E420": {
+            "E420": 0
+        }, 
+        "E430": {
+            "E430": 0
+        }, 
+        "E500": {
+            "E500": 2
+        }, 
+        "E55": {
+            "E55": 0
+        }, 
+        "G500": {
+            "G500": 24
+        }, 
+        "G55": {
+            "G55": 0
+        }, 
+        "G550": {
+            "G550": 1
+        }, 
+        "GL": {
+            "GL": 0
+        }, 
+        "GLK": {
+            "GLK": 0
+        }, 
+        "M": {
+            "M": 0
+        }, 
+        "ML320": {
+            "ML320": 191
+        }, 
+        "ML350": {
+            "ML350": 260
+        }, 
+        "ML430": {
+            "ML430": 42
+        }, 
+        "ML500": {
+            "ML500": 92
+        }, 
+        "ML55": {
+            "ML55": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "R": {
+            "R": 0
+        }, 
+        "R350": {
+            "R350": 63
+        }, 
+        "R500": {
+            "R500": 18
+        }, 
+        "S": {
+            "S": 0
+        }, 
+        "S320": {
+            "S320": 0
+        }, 
+        "S350": {
+            "S350": 0
+        }, 
+        "S420": {
+            "S420": 0
+        }, 
+        "S430": {
+            "S430": 0
+        }, 
+        "S500": {
+            "S500": 1
+        }, 
+        "S55 AMG": {
+            "S55 AMG": 14
+        }, 
+        "S550": {
+            "S550": 11
+        }, 
+        "S600": {
+            "S600": 1
+        }, 
+        "S65": {
+            "S65": 0
+        }, 
+        "S65AMG": {
+            "S65AMG": 0
+        }, 
+        "SL": {
+            "SL": 0
+        }, 
+        "SL320": {
+            "SL320": 0
+        }, 
+        "SL500": {
+            "SL500": 39
+        }, 
+        "SL55 AMG": {
+            "SL55 AMG": 12
+        }, 
+        "SL600": {
+            "SL600": 0
+        }, 
+        "SL65": {
+            "SL65": 0
+        }, 
+        "SL65 AMG": {
+            "SL65 AMG": 8
+        }, 
+        "SLK": {
+            "SLK": 0
+        }, 
+        "SLR": {
+            "SLR": 0
+        }, 
+        "SLS": {
+            "SLS": 0
+        }, 
+        "SPRINTER": {
+            "SPRINTER": 0
+        }
+    }, 
+    "MERCURY": {
+        "CAPRI": {
+            "CAPRI": 2
+        }, 
+        "COUGAR": {
+            "COUGAR": 129
+        }, 
+        "GRAND": {
+            "GRAND": 0
+        }, 
+        "GRAND MARQUIS": {
+            "GRAND MARQUIS": 902
+        }, 
+        "LN7": {
+            "LN7": 0
+        }, 
+        "LYNX": {
+            "LYNX": 0
+        }, 
+        "MARAUDER": {
+            "MARAUDER": 7
+        }, 
+        "MARINER": {
+            "MARINER": 19
+        }, 
+        "MARQUIS": {
+            "MARQUIS": 0
+        }, 
+        "MERKUR": {
+            "MERKUR": 0
+        }, 
+        "MILAN": {
+            "MILAN": 423
+        }, 
+        "MONTEGO": {
+            "MONTEGO": 66
+        }, 
+        "MONTEREY": {
+            "MONTEREY": 41
+        }, 
+        "MOUNTAINEE": {
+            "MOUNTAINEE": 0
+        }, 
+        "MOUNTAINEER": {
+            "MOUNTAINEER": 30
+        }, 
+        "MYSTIQUE": {
+            "MYSTIQUE": 30
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "SABLE": {
+            "SABLE": 230
+        }, 
+        "SCORPIO": {
+            "SCORPIO": 0
+        }, 
+        "TOPAZ": {
+            "TOPAZ": 2
+        }, 
+        "TRACER": {
+            "TRACER": 11
+        }, 
+        "VILLAGER": {
+            "VILLAGER": 14
+        }, 
+        "XR3": {
+            "XR3": 0
+        }, 
+        "XR4TI": {
+            "XR4TI": 0
+        }, 
+        "ZEPHYR": {
+            "ZEPHYR": 0
+        }
+    }, 
+    "MG": {}, 
+    "MIAMI": {}, 
+    "MICKEY": {}, 
+    "MIDAS": {}, 
+    "MINI": {
+        "COOPER": {
+            "COOPER": 516
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "MIRAGE": {}, 
+    "MITSUBISHI": {
+        "3000": {
+            "3000": 0
+        }, 
+        "CORDIA": {
+            "CORDIA": 0
+        }, 
+        "DIAMANTE": {
+            "DIAMANTE": 4
+        }, 
+        "ECLIPSE": {
+            "ECLIPSE": 76
+        }, 
+        "ENDEAVOR": {
+            "ENDEAVOR": 1
+        }, 
+        "EXPO": {
+            "EXPO": 5
+        }, 
+        "FE4": {
+            "FE4": 0
+        }, 
+        "FE444": {
+            "FE444": 0
+        }, 
+        "FE6": {
+            "FE6": 0
+        }, 
+        "FE8": {
+            "FE8": 0
+        }, 
+        "FG434": {
+            "FG434": 0
+        }, 
+        "FG6": {
+            "FG6": 0
+        }, 
+        "FG8": {
+            "FG8": 0
+        }, 
+        "FH100": {
+            "FH100": 0
+        }, 
+        "FH2": {
+            "FH2": 0
+        }, 
+        "GALANT": {
+            "GALANT": 626
+        }, 
+        "LANCER": {
+            "LANCER": 129
+        }, 
+        "MIGHTY MAX": {
+            "MIGHTY MAX": 3
+        }, 
+        "MIRAGE": {
+            "MIRAGE": 2
+        }, 
+        "MONTERO": {
+            "MONTERO": 6
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "OUTLANDER": {
+            "OUTLANDER": 83
+        }, 
+        "PICKUP": {
+            "PICKUP": 0
+        }, 
+        "PRECIS": {
+            "PRECIS": 0
+        }, 
+        "RAIDER": {
+            "RAIDER": 25
+        }, 
+        "SAPPORO": {
+            "SAPPORO": 0
+        }, 
+        "SIGMA": {
+            "SIGMA": 0
+        }, 
+        "SP": {
+            "SP": 0
+        }, 
+        "SPX": {
+            "SPX": 0
+        }, 
+        "STARION": {
+            "STARION": 0
+        }, 
+        "TREDIA": {
+            "TREDIA": 0
+        }, 
+        "VAN": {
+            "VAN": 0
+        }, 
+        "WAGON": {
+            "WAGON": 0
+        }
+    }, 
+    "MONACO": {}, 
+    "MONARK": {}, 
+    "MOND": {}, 
+    "MONTEREY": {}, 
+    "NASH": {}, 
+    "NASKART": {}, 
+    "NATIONAL RV": {}, 
+    "NISSAN": {
+        "200SX": {
+            "200SX": 2
+        }, 
+        "240SX": {
+            "240SX": 0
+        }, 
+        "300ZX": {
+            "300ZX": 0
+        }, 
+        "350Z": {
+            "350Z": 221
+        }, 
+        "370Z": {
+            "370Z": 59
+        }, 
+        "720": {
+            "720": 0
+        }, 
+        "ALTIMA": {
+            "ALTIMA": 1999
+        }, 
+        "ALTRA": {
+            "ALTRA": 0
+        }, 
+        "ARMADA": {
+            "ARMADA": 169
+        }, 
+        "AXXESS": {
+            "AXXESS": 0
+        }, 
+        "CUBE": {
+            "CUBE": 78
+        }, 
+        "D21": {
+            "D21": 0
+        }, 
+        "FRONTIER": {
+            "FRONTIER": 305
+        }, 
+        "GT": {
+            "GT": 0
+        }, 
+        "GT-R": {
+            "GT-R": 5
+        }, 
+        "JUKE": {
+            "JUKE": 0
+        }, 
+        "KING CAB": {
+            "KING CAB": 11
+        }, 
+        "LEAF": {
+            "LEAF": 4
+        }, 
+        "LONG BED": {
+            "LONG BED": 1
+        }, 
+        "MAXIMA": {
+            "MAXIMA": 1714
+        }, 
+        "MICRA": {
+            "MICRA": 0
+        }, 
+        "MULTI": {
+            "MULTI": 0
+        }, 
+        "MURANO": {
+            "MURANO": 595
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "NX COUPE": {
+            "NX COUPE": 0
+        }, 
+        "PATHFINDER": {
+            "PATHFINDER": 868
+        }, 
+        "PICKUP": {
+            "PICKUP": 0
+        }, 
+        "PULSAR": {
+            "PULSAR": 0
+        }, 
+        "QUEST": {
+            "QUEST": 533
+        }, 
+        "ROGUE": {
+            "ROGUE": 1
+        }, 
+        "SENTRA": {
+            "SENTRA": 1283
+        }, 
+        "SHORT BED": {
+            "SHORT BED": 5
+        }, 
+        "STANZA": {
+            "STANZA": 0
+        }, 
+        "TITAN": {
+            "TITAN": 316
+        }, 
+        "VAN": {
+            "VAN": 0
+        }, 
+        "VERSA": {
+            "VERSA": 292
+        }, 
+        "X TRAIL": {
+            "X TRAIL": 0
+        }, 
+        "XTERRA": {
+            "XTERRA": 488
+        }
+    }, 
+    "NITRO": {}, 
+    "NORTHWOOD": {}, 
+    "ODYSSEY": {}, 
+    "OLDSMOBILE": {
+        "88": {
+            "88": 1
+        }, 
+        "98": {
+            "98": 0
+        }, 
+        "ACHIEVA": {
+            "ACHIEVA": 17
+        }, 
+        "ALERO": {
+            "ALERO": 264
+        }, 
+        "AURORA": {
+            "AURORA": 74
+        }, 
+        "BRAVADA": {
+            "BRAVADA": 8
+        }, 
+        "CALAIS": {
+            "CALAIS": 0
+        }, 
+        "CIERA": {
+            "CIERA": 50
+        }, 
+        "CUSTOM CRUISER": {
+            "CUSTOM CRUISER": 0
+        }, 
+        "CUTLASS": {
+            "CUTLASS": 26
+        }, 
+        "FIRENZA": {
+            "FIRENZA": 0
+        }, 
+        "INTRIGUE": {
+            "INTRIGUE": 104
+        }, 
+        "LSS": {
+            "LSS": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "OMEGA": {
+            "OMEGA": 0
+        }, 
+        "SILHOUETTE": {
+            "SILHOUETTE": 14
+        }, 
+        "TORONADO": {
+            "TORONADO": 4
+        }
+    }, 
+    "ORANGE": {}, 
+    "OUTBACK": {}, 
+    "PACE": {}, 
+    "PACKARD": {}, 
+    "PALOMINO": {}, 
+    "PANOZ": {
+        "ESPERANTE": {
+            "ESPERANTE": 0
+        }, 
+        "MAGNUSSEN": {
+            "MAGNUSSEN": 0
+        }
+    }, 
+    "PETERBILT": {}, 
+    "PETTIBONE": {}, 
+    "PILGRIM": {}, 
+    "PINES": {}, 
+    "PIONEER": {}, 
+    "PLAYBUOY": {}, 
+    "PLYMOUTH": {
+        "ACCLAIM": {
+            "ACCLAIM": 2
+        }, 
+        "ARROW": {
+            "ARROW": 0
+        }, 
+        "BREEZE": {
+            "BREEZE": 21
+        }, 
+        "CARAVELLE": {
+            "CARAVELLE": 0
+        }, 
+        "CHAMP": {
+            "CHAMP": 0
+        }, 
+        "COLT": {
+            "COLT": 0
+        }, 
+        "CONQUEST": {
+            "CONQUEST": 0
+        }, 
+        "GRAN FURY": {
+            "GRAN FURY": 0
+        }, 
+        "HORIZON": {
+            "HORIZON": 0
+        }, 
+        "LASER": {
+            "LASER": 0
+        }, 
+        "NEON": {
+            "NEON": 77
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PROWLER": {
+            "PROWLER": 2
+        }, 
+        "RELIANT": {
+            "RELIANT": 1
+        }, 
+        "SAPPORO": {
+            "SAPPORO": 0
+        }, 
+        "SCAMP": {
+            "SCAMP": 0
+        }, 
+        "SUNDANCE": {
+            "SUNDANCE": 1
+        }, 
+        "TRAILDUSTER": {
+            "TRAILDUSTER": 0
+        }, 
+        "VOYAGER": {
+            "VOYAGER": 1
+        }
+    }, 
+    "POLARIS": {
+        "8 BALL": {
+            "8 BALL": 0
+        }, 
+        "ANESS KINGPIN": {
+            "ANESS KINGPIN": 0
+        }, 
+        "BIG BOSS 500 6X6": {
+            "BIG BOSS 500 6X6": 0
+        }, 
+        "CNESS VEGAS": {
+            "CNESS VEGAS": 0
+        }, 
+        "DELUXE TOURING": {
+            "DELUXE TOURING": 0
+        }, 
+        "DIESEL": {
+            "DIESEL": 0
+        }, 
+        "GEN II": {
+            "GEN II": 0
+        }, 
+        "GEN III": {
+            "GEN III": 0
+        }, 
+        "GEN IV": {
+            "GEN IV": 0
+        }, 
+        "HAMMER": {
+            "HAMMER": 0
+        }, 
+        "KINGPIN": {
+            "KINGPIN": 0
+        }, 
+        "KINGPIN CUSTOM": {
+            "KINGPIN CUSTOM": 0
+        }, 
+        "MAGNUM 325 2X4": {
+            "MAGNUM 325 2X4": 0
+        }, 
+        "MAGNUM 325 4X4": {
+            "MAGNUM 325 4X4": 0
+        }, 
+        "MAGNUM 500": {
+            "MAGNUM 500": 0
+        }, 
+        "NESS": {
+            "NESS": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RANGER": {
+            "RANGER": 2
+        }, 
+        "SCRAMBLER 400 4X2": {
+            "SCRAMBLER 400 4X2": 0
+        }, 
+        "SCRAMBLER 400 4X4": {
+            "SCRAMBLER 400 4X4": 0
+        }, 
+        "SCRAMBLER 50": {
+            "SCRAMBLER 50": 0
+        }, 
+        "SCRAMBLER 500 4X4": {
+            "SCRAMBLER 500 4X4": 0
+        }, 
+        "SCRAMBLER 90": {
+            "SCRAMBLER 90": 0
+        }, 
+        "SPORTSMAN 335": {
+            "SPORTSMAN 335": 0
+        }, 
+        "SPORTSMAN 400": {
+            "SPORTSMAN 400": 0
+        }, 
+        "SPORTSMAN 500/RSE/DUSE": {
+            "SPORTSMAN 500/RSE/DUSE": 0
+        }, 
+        "SPORTSMAN 6X6": {
+            "SPORTSMAN 6X6": 0
+        }, 
+        "SPORTSMAN 700": {
+            "SPORTSMAN 700": 0
+        }, 
+        "SPORTSMAN 90": {
+            "SPORTSMAN 90": 0
+        }, 
+        "TOURING": {
+            "TOURING": 0
+        }, 
+        "TRAIL BLAZER": {
+            "TRAIL BLAZER": 0
+        }, 
+        "TRAIL BOSS 250": {
+            "TRAIL BOSS 250": 0
+        }, 
+        "TRAIL BOSS 325": {
+            "TRAIL BOSS 325": 0
+        }, 
+        "V92C DELUXE": {
+            "V92C DELUXE": 0
+        }, 
+        "V92SC": {
+            "V92SC": 0
+        }, 
+        "VEGAS": {
+            "VEGAS": 0
+        }, 
+        "VICTORY": {
+            "VICTORY": 0
+        }, 
+        "VICTORY VEGAS": {
+            "VICTORY VEGAS": 0
+        }, 
+        "XPEDITION 325": {
+            "XPEDITION 325": 0
+        }, 
+        "XPEDITION 425": {
+            "XPEDITION 425": 0
+        }, 
+        "XPLORER 300": {
+            "XPLORER 300": 0
+        }, 
+        "XPLORER 400": {
+            "XPLORER 400": 0
+        }, 
+        "XPLORER 4X4": {
+            "XPLORER 4X4": 0
+        }, 
+        "XPRESS 300": {
+            "XPRESS 300": 0
+        }
+    }, 
+    "PONTIAC": {
+        "AZTEK": {
+            "AZTEK": 6
+        }, 
+        "BONNEVILLE": {
+            "BONNEVILLE": 180
+        }, 
+        "G3": {
+            "G3": 2
+        }, 
+        "G5": {
+            "G5": 51
+        }, 
+        "G6": {
+            "G6": 748
+        }, 
+        "G8": {
+            "G8": 51
+        }, 
+        "GRAND": {
+            "GRAND": 0
+        }, 
+        "GTO": {
+            "GTO": 45
+        }, 
+        "MONTANA": {
+            "MONTANA": 38
+        }, 
+        "SOLSTICE": {
+            "SOLSTICE": 71
+        }, 
+        "SUNFIRE": {
+            "SUNFIRE": 194
+        }, 
+        "TORRENT": {
+            "TORRENT": 76
+        }, 
+        "VIBE": {
+            "VIBE": 201
+        }
+    }, 
+    "PORSCHE": {
+        "911": {
+            "911": 8
+        }, 
+        "924": {
+            "924": 0
+        }, 
+        "928": {
+            "928": 1
+        }, 
+        "944": {
+            "944": 8
+        }, 
+        "968": {
+            "968": 1
+        }, 
+        "996": {
+            "996": 0
+        }, 
+        "BOXSTER": {
+            "BOXSTER": 87
+        }, 
+        "CAYENNE": {
+            "CAYENNE": 103
+        }, 
+        "CAYMAN": {
+            "CAYMAN": 15
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PANAMERA": {
+            "PANAMERA": 9
+        }
+    }, 
+    "PROLINE": {}, 
+    "PROWLER": {}, 
+    "RAM": {
+        "DAKOTA": {
+            "DAKOTA": 0
+        }, 
+        "RAM": {
+            "RAM": 0
+        }
+    }, 
+    "REGAL": {}, 
+    "RENAULT": {
+        "18I": {
+            "18I": 0
+        }, 
+        "FUEGO": {
+            "FUEGO": 0
+        }, 
+        "LE CAR": {
+            "LE CAR": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "R18": {
+            "R18": 0
+        }, 
+        "R5": {
+            "R5": 0
+        }, 
+        "SPORTWAGON": {
+            "SPORTWAGON": 0
+        }
+    }, 
+    "RENEGADE": {}, 
+    "REXHALL": {}, 
+    "RIFUN": {}, 
+    "ROCKWOOD": {}, 
+    "ROLLS-ROYCE": {
+        "CARMAQUE": {
+            "CARMAQUE": 0
+        }, 
+        "CORNICHE": {
+            "CORNICHE": 0
+        }, 
+        "FLYING SPUR": {
+            "FLYING SPUR": 0
+        }, 
+        "GHOST": {
+            "GHOST": 3
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PARK WARD": {
+            "PARK WARD": 0
+        }, 
+        "PHANTOM": {
+            "PHANTOM": 1
+        }, 
+        "SILVER DAWN": {
+            "SILVER DAWN": 0
+        }, 
+        "SILVER SERAPH": {
+            "SILVER SERAPH": 1
+        }, 
+        "SILVER SPIRIT": {
+            "SILVER SPIRIT": 2
+        }, 
+        "SILVER SPUR": {
+            "SILVER SPUR": 3
+        }, 
+        "TOURING LIMO": {
+            "TOURING LIMO": 0
+        }
+    }, 
+    "SAAB": {
+        "9": {
+            "9": 0
+        }, 
+        "9-3": {
+            "9-3": 346
+        }, 
+        "9-5": {
+            "9-5": 120
+        }, 
+        "9-7X": {
+            "9-7X": 0
+        }, 
+        "900": {
+            "900": 30
+        }, 
+        "9000": {
+            "9000": 2
+        }, 
+        "92": {
+            "92": 0
+        }, 
+        "93": {
+            "93": 1
+        }, 
+        "95": {
+            "95": 0
+        }, 
+        "97X": {
+            "97X": 28
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "SAFARI": {}, 
+    "SANDPIPER": {}, 
+    "SATURN": {
+        "ASTRA": {
+            "ASTRA": 19
+        }, 
+        "AURA": {
+            "AURA": 171
+        }, 
+        "ION": {
+            "ION": 386
+        }, 
+        "L": {
+            "L": 0
+        }, 
+        "L100": {
+            "L100": 4
+        }, 
+        "L200": {
+            "L200": 76
+        }, 
+        "L300": {
+            "L300": 95
+        }, 
+        "LS": {
+            "LS": 12
+        }, 
+        "LS1": {
+            "LS1": 25
+        }, 
+        "LS2": {
+            "LS2": 21
+        }, 
+        "LW1": {
+            "LW1": 6
+        }, 
+        "LW2": {
+            "LW2": 9
+        }, 
+        "LW200": {
+            "LW200": 10
+        }, 
+        "LW300": {
+            "LW300": 12
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "OUTLOOK": {
+            "OUTLOOK": 83
+        }, 
+        "RELAY": {
+            "RELAY": 28
+        }, 
+        "SC": {
+            "SC": 0
+        }, 
+        "SKY": {
+            "SKY": 29
+        }, 
+        "SL": {
+            "SL": 36
+        }, 
+        "SL1": {
+            "SL1": 137
+        }, 
+        "SL2": {
+            "SL2": 195
+        }, 
+        "SW1": {
+            "SW1": 2
+        }, 
+        "SW2": {
+            "SW2": 23
+        }, 
+        "VUE": {
+            "VUE": 6
+        }
+    }, 
+    "SCION": {
+        "NULL": {
+            "NULL": 0
+        }, 
+        "TC": {
+            "TC": 319
+        }, 
+        "XA": {
+            "XA": 29
+        }, 
+        "XB": {
+            "XB": 227
+        }, 
+        "XD": {
+            "XD": 47
+        }
+    }, 
+    "SCOUT": {}, 
+    "SEA ARK": {}, 
+    "SEA DOO": {}, 
+    "SEA FOX": {}, 
+    "SEA HUNT": {}, 
+    "SEA PRO": {}, 
+    "SEA RAY": {}, 
+    "SEASWIRL": {}, 
+    "SHADOMATIC": {}, 
+    "SILVERTON": {}, 
+    "SKEETER": {}, 
+    "SKYLINE": {}, 
+    "SMART CAR": {
+        "FORTWO": {
+            "FORTWO": 40
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "SMOKER CRAFT": {}, 
+    "SPORTSMAN": {}, 
+    "SPYDER": {}, 
+    "STARCRAFT": {}, 
+    "STARFLYTE": {}, 
+    "STEAL": {}, 
+    "STEENBERG": {}, 
+    "STEHL": {}, 
+    "STERLING": {
+        "500SPORTCHASSIS": {
+            "500SPORTCHASSIS": 0
+        }, 
+        "825": {
+            "825": 0
+        }, 
+        "827": {
+            "827": 0
+        }, 
+        "ACTERRA": {
+            "ACTERRA": 0
+        }, 
+        "L7500": {
+            "L7500": 0
+        }, 
+        "LT7500": {
+            "LT7500": 0
+        }, 
+        "M5500": {
+            "M5500": 0
+        }, 
+        "M6500": {
+            "M6500": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }, 
+    "STINGRAY": {}, 
+    "STUDEBAKER": {}, 
+    "SUBARU": {
+        "B9": {
+            "B9": 0
+        }, 
+        "BAJA": {
+            "BAJA": 25
+        }, 
+        "BRAT": {
+            "BRAT": 0
+        }, 
+        "DL": {
+            "DL": 0
+        }, 
+        "FORESTER": {
+            "FORESTER": 156
+        }, 
+        "GL": {
+            "GL": 1
+        }, 
+        "IMPREZA": {
+            "IMPREZA": 47
+        }, 
+        "JUSTY": {
+            "JUSTY": 0
+        }, 
+        "LEGACY": {
+            "LEGACY": 312
+        }, 
+        "LOYALE": {
+            "LOYALE": 1
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "OUTBACK": {
+            "OUTBACK": 402
+        }, 
+        "RX4": {
+            "RX4": 0
+        }, 
+        "SUBARU": {
+            "SUBARU": 0
+        }, 
+        "SVX": {
+            "SVX": 0
+        }, 
+        "TRIBECA": {
+            "TRIBECA": 1
+        }
+    }, 
+    "SUNLINE": {}, 
+    "SUNNYBROOK": {}, 
+    "SUNSEEKER": {}, 
+    "SUNTRACKER": {}, 
+    "SURETRAC": {}, 
+    "SURVEYOR": {}, 
+    "SUZUKI": {
+        "AERIO": {
+            "AERIO": 45
+        }, 
+        "EQUATOR": {
+            "EQUATOR": 7
+        }, 
+        "ESTEEM": {
+            "ESTEEM": 9
+        }, 
+        "FORENZA": {
+            "FORENZA": 258
+        }, 
+        "FORSA": {
+            "FORSA": 0
+        }, 
+        "GRAND": {
+            "GRAND": 0
+        }, 
+        "GRAND VITARA": {
+            "GRAND VITARA": 197
+        }, 
+        "KIZASHI": {
+            "KIZASHI": 2
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RENO": {
+            "RENO": 31
+        }, 
+        "SAMURAI": {
+            "SAMURAI": 0
+        }, 
+        "SIDEKICK": {
+            "SIDEKICK": 8
+        }, 
+        "SWIFT": {
+            "SWIFT": 0
+        }, 
+        "SX4": {
+            "SX4": 157
+        }, 
+        "VERONA": {
+            "VERONA": 47
+        }, 
+        "VITARA": {
+            "VITARA": 23
+        }, 
+        "XL": {
+            "XL": 0
+        }
+    }, 
+    "TAHOE": {
+        "NULL": {
+            "NULL": 0
+        }, 
+        "SKI": {
+            "SKI": 0
+        }
+    }, 
+    "TAOTAO": {}, 
+    "TENNANT": {}, 
+    "TERRY": {}, 
+    "TESLA MOTORS": {
+        "TESLA": {
+            "TESLA": 0
+        }
+    }, 
+    "TETON": {}, 
+    "THOR": {}, 
+    "TIFFIN": {}, 
+    "TIGERLINE": {}, 
+    "TOYOTA": {
+        "4RUNNER": {
+            "4RUNNER": 10
+        }, 
+        "AVALON": {
+            "AVALON": 573
+        }, 
+        "CAB": {
+            "CAB": 0
+        }, 
+        "CAMPER": {
+            "CAMPER": 0
+        }, 
+        "CAMRY": {
+            "CAMRY": 3411
+        }, 
+        "CELICA": {
+            "CELICA": 108
+        }, 
+        "COROLLA": {
+            "COROLLA": 1997
+        }, 
+        "CORONA": {
+            "CORONA": 0
+        }, 
+        "CRESSIDA": {
+            "CRESSIDA": 1
+        }, 
+        "ECHO": {
+            "ECHO": 63
+        }, 
+        "FJ": {
+            "FJ": 0
+        }, 
+        "FJ CRUISER": {
+            "FJ CRUISER": 219
+        }, 
+        "HIGHLANDER": {
+            "HIGHLANDER": 9
+        }, 
+        "LAND": {
+            "LAND": 0
+        }, 
+        "LAND CRUISER": {
+            "LAND CRUISER": 151
+        }, 
+        "LANDCRUISER": {
+            "LANDCRUISER": 1
+        }, 
+        "MATRIX": {
+            "MATRIX": 160
+        }, 
+        "MR2": {
+            "MR2": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PASEO": {
+            "PASEO": 8
+        }, 
+        "PICKUP": {
+            "PICKUP": 0
+        }, 
+        "PREVIA": {
+            "PREVIA": 7
+        }, 
+        "PRIUS": {
+            "PRIUS": 3
+        }, 
+        "RAV4": {
+            "RAV4": 21
+        }, 
+        "SEQUOIA": {
+            "SEQUOIA": 5
+        }, 
+        "SHORT BED": {
+            "SHORT BED": 3
+        }, 
+        "SIENNA": {
+            "SIENNA": 1193
+        }, 
+        "SUPRA": {
+            "SUPRA": 2
+        }, 
+        "T100": {
+            "T100": 0
+        }, 
+        "TACOMA": {
+            "TACOMA": 11
+        }, 
+        "TERCEL": {
+            "TERCEL": 25
+        }, 
+        "TUNDRA": {
+            "TUNDRA": 10
+        }, 
+        "VAN": {
+            "VAN": 0
+        }, 
+        "VENZA": {
+            "VENZA": 147
+        }, 
+        "XCAB": {
+            "XCAB": 0
+        }, 
+        "YARIS": {
+            "YARIS": 350
+        }
+    }, 
+    "TRACKER": {}, 
+    "TRAILER": {}, 
+    "TRANSCRAFT": {}, 
+    "TRAVELSUP": {}, 
+    "TRITON": {}, 
+    "TRIUMPH": {
+        "ADVENTURER": {
+            "ADVENTURER": 0
+        }, 
+        "BONNEVILLE": {
+            "BONNEVILLE": 0
+        }, 
+        "DAYTONA": {
+            "DAYTONA": 0
+        }, 
+        "LEGEND": {
+            "LEGEND": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "SPEED": {
+            "SPEED": 0
+        }, 
+        "SPRINT": {
+            "SPRINT": 0
+        }, 
+        "THUNDERBIRD": {
+            "THUNDERBIRD": 0
+        }, 
+        "TIGER": {
+            "TIGER": 0
+        }, 
+        "TR7": {
+            "TR7": 0
+        }, 
+        "TR8": {
+            "TR8": 0
+        }, 
+        "TRIDENT": {
+            "TRIDENT": 0
+        }, 
+        "TROPHY": {
+            "TROPHY": 0
+        }, 
+        "TT600": {
+            "TT600": 0
+        }
+    }, 
+    "UNREADABLE": {
+        "METRO": {
+            "METRO": 3
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PRIZM": {
+            "PRIZM": 20
+        }, 
+        "SPECTRUM": {
+            "SPECTRUM": 0
+        }, 
+        "SPRINT": {
+            "SPRINT": 0
+        }, 
+        "STORM": {
+            "STORM": 1
+        }, 
+        "TRACKER": {
+            "TRACKER": 0
+        }
+    }, 
+    "UTILIMASTER": {
+        "NULL": {
+            "NULL": 0
+        }, 
+        "VAN": {
+            "VAN": 0
+        }
+    }, 
+    "UTILITY": {}, 
+    "VANTAGE": {}, 
+    "VICTORY": {}, 
+    "VIP": {}, 
+    "VOLKSWAGEN": {
+        "2005": {
+            "2005": 0
+        }, 
+        "BEETLE": {
+            "BEETLE": 307
+        }, 
+        "CABRIO": {
+            "CABRIO": 7
+        }, 
+        "CC": {
+            "CC": 198
+        }, 
+        "CORRADO": {
+            "CORRADO": 2
+        }, 
+        "DASHER": {
+            "DASHER": 0
+        }, 
+        "EOS": {
+            "EOS": 52
+        }, 
+        "EUROVAN": {
+            "EUROVAN": 3
+        }, 
+        "FOX": {
+            "FOX": 2
+        }, 
+        "GLI": {
+            "GLI": 0
+        }, 
+        "GOLF": {
+            "GOLF": 16
+        }, 
+        "GTI": {
+            "GTI": 127
+        }, 
+        "JETTA": {
+            "JETTA": 532
+        }, 
+        "KOMBI": {
+            "KOMBI": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "PASSAT": {
+            "PASSAT": 278
+        }, 
+        "PHAETON": {
+            "PHAETON": 7
+        }, 
+        "QUANTUM": {
+            "QUANTUM": 0
+        }, 
+        "R32": {
+            "R32": 14
+        }, 
+        "RABBIT": {
+            "RABBIT": 39
+        }, 
+        "ROUTAN": {
+            "ROUTAN": 151
+        }, 
+        "SCIROCCO": {
+            "SCIROCCO": 2
+        }, 
+        "TIGUAN": {
+            "TIGUAN": 49
+        }, 
+        "TOUAREG": {
+            "TOUAREG": 218
+        }, 
+        "TRANSPORTER": {
+            "TRANSPORTER": 0
+        }, 
+        "VANAGON": {
+            "VANAGON": 1
+        }
+    }, 
+    "VOLVO": {
+        "240": {
+            "240": 5
+        }, 
+        "260": {
+            "260": 0
+        }, 
+        "740": {
+            "740": 1
+        }, 
+        "760": {
+            "760": 0
+        }, 
+        "780": {
+            "780": 0
+        }, 
+        "850": {
+            "850": 29
+        }, 
+        "940": {
+            "940": 6
+        }, 
+        "960": {
+            "960": 2
+        }, 
+        "C30": {
+            "C30": 31
+        }, 
+        "C70": {
+            "C70": 106
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "S40": {
+            "S40": 315
+        }, 
+        "S60": {
+            "S60": 308
+        }, 
+        "S70": {
+            "S70": 96
+        }, 
+        "S80": {
+            "S80": 308
+        }, 
+        "S90": {
+            "S90": 3
+        }, 
+        "V40": {
+            "V40": 14
+        }, 
+        "V50": {
+            "V50": 41
+        }, 
+        "V70": {
+            "V70": 160
+        }, 
+        "V90": {
+            "V90": 1
+        }, 
+        "XC60": {
+            "XC60": 50
+        }, 
+        "XC70": {
+            "XC70": 62
+        }, 
+        "XC90": {
+            "XC90": 278
+        }
+    }, 
+    "WABASH": {}, 
+    "WALL": {}, 
+    "WAR EAGLE": {}, 
+    "WELLCRAFT": {}, 
+    "WEST COAST": {}, 
+    "WESTERN": {}, 
+    "WILDCAT": {}, 
+    "WILDERNESS": {}, 
+    "WILDWOOD": {}, 
+    "WILSON": {}, 
+    "WINNEBAGO": {
+        "CLASS A": {
+            "CLASS A": 0
+        }, 
+        "LE SHARO/PHASAR": {
+            "LE SHARO/PHASAR": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "RIALTA": {
+            "RIALTA": 0
+        }, 
+        "WALK-IN VAN": {
+            "WALK-IN VAN": 0
+        }
+    }, 
+    "WORKHORSE": {
+        "COMMERCIAL W42": {
+            "COMMERCIAL W42": 0
+        }, 
+        "COMMERCIAL W50": {
+            "COMMERCIAL W50": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }, 
+        "P30 FORWARD CNTL": {
+            "P30 FORWARD CNTL": 0
+        }, 
+        "P30 MOTOR HOME": {
+            "P30 MOTOR HOME": 0
+        }, 
+        "P31 STEP VAN": {
+            "P31 STEP VAN": 0
+        }, 
+        "P42": {
+            "P42": 0
+        }, 
+        "P42 STEP VAN": {
+            "P42 STEP VAN": 0
+        }, 
+        "W18 MTR HM CHASS": {
+            "W18 MTR HM CHASS": 0
+        }
+    }, 
+    "YALE": {}, 
+    "YAMAHA": {
+        "100": {
+            "100": 0
+        }, 
+        "1000": {
+            "1000": 0
+        }, 
+        "125": {
+            "125": 0
+        }, 
+        "250": {
+            "250": 1
+        }, 
+        "400": {
+            "400": 0
+        }, 
+        "50": {
+            "50": 0
+        }, 
+        "500": {
+            "500": 0
+        }, 
+        "600": {
+            "600": 0
+        }, 
+        "750": {
+            "750": 0
+        }, 
+        "NULL": {
+            "NULL": 0
+        }
+    }
+}

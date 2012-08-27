@@ -6,9 +6,10 @@
     "HAULMARK": {
         "HAULMARK": 5
     },
-    "UTILMASTER": {
+    "UTILIMASTER": {
         "UTILMASTR": 1,
-        "UTILMASTER": 0
+        "UTILMASTER": 0,
+        "UTILIMASTER": 0
     },
     "GENERATOR": {
         "GENERATOR": 1
@@ -176,7 +177,7 @@
         "XBLUEBIRD": 2,
         "BLUEBIRD": 0
     },
-    "HARLEY DAVIDSON": {
+    "HARLEY-DAVIDSON": {
         "HARLEXDAV": 2,
         "HARLEY DAVIDSON": 0,
         "HARLEY-DAV": 8,
@@ -184,7 +185,8 @@
         "HARLEYDAV": 11,
         "HARLEY": 339,
         "ARLEYDAV": 1,
-        "HRLEY DAV": 1
+        "HRLEY DAV": 1,
+        "HARLEY-DAVIDSON": 0
     },
     "STEHL": {
         "STEHL": 2
@@ -905,7 +907,8 @@
         "ROLLS ROYC": 3,
         "ROLLS-ROY": 2,
         "ROLLS-ROYC": 3,
-        "ROLLS-ROYCE": 0
+        "ROLLS-ROYCE": 0,
+        "ROLLS ROYCE": 0
     },
     "PETTIBONE": {
         "PETTIBONE": 1
